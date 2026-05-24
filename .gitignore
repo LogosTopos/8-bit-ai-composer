@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Audio outputs (binary)
+*.wav
+*.mp3
+
+# Environment secrets
+.env
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output directories (generated audio)
+output/
+*/output/
+
+# SoundFonts (large binary files, download separately)
+assets/soundfonts/
+assets/fluidsynth/
+
+# Temp / scratch
+*.zip
+*.bat

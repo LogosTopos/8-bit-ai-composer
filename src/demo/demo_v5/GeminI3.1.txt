@@ -1,0 +1,296 @@
+{
+  "bpm": 128,
+  "mix_vibe": "jpop_modern",
+  "patterns": {
+    "kick_basic": [
+      ["C4", 0.75, 1.0], ["_", 0.25], ["C4", 0.5, 0.8], ["C4", 0.5, 0.8], ["_", 0.5], ["C4", 0.5, 0.9], ["_", 1.0]
+    ],
+    "kick_drive": [
+      ["C4", 0.5, 1.0], ["_", 0.25], ["C4", 0.25, 0.7], ["C4", 0.5, 0.9], ["_", 0.5], ["C4", 0.5, 0.9], ["_", 0.5], ["C4", 0.25, 0.7], ["C4", 0.75, 1.0]
+    ],
+    "kick_four": [
+      ["C4", 1.0, 1.0], ["C4", 1.0, 1.0], ["C4", 1.0, 1.0], ["C4", 1.0, 1.0]
+    ],
+    "snare_basic": [
+      ["_", 1.0], ["C5", 0.5, 1.0], ["_", 0.5], ["_", 1.0], ["C5", 0.5, 1.0], ["_", 0.5]
+    ],
+    "snare_build": [
+      ["C5", 0.5, 0.6], ["C5", 0.5, 0.7], ["C5", 0.5, 0.8], ["C5", 0.5, 0.9],
+      ["C5", 0.25, 0.9], ["C5", 0.25, 0.9], ["C5", 0.25, 1.0], ["C5", 0.25, 1.0],
+      ["C5", 0.125, 1.0], ["C5", 0.125, 1.0], ["C5", 0.125, 1.0], ["C5", 0.125, 1.0],
+      ["C5", 0.125, 1.0], ["C5", 0.125, 1.0], ["C5", 0.125, 1.0], ["C5", 0.125, 1.0]
+    ],
+    "hihat_16th": [
+      ["C6", 0.25, 0.8], ["C6", 0.25, 0.4], ["C6", 0.25, 0.6], ["C6", 0.25, 0.4]
+    ],
+    "bass_F": [
+      ["F2", 0.5, 0.9], ["C3", 0.25, 0.7], ["_", 0.25], ["F2", 0.25, 0.8], ["_", 0.25], ["F3", 0.5, 0.9],
+      ["C3", 0.25, 0.8], ["_", 0.25], ["F2", 0.5, 0.9], ["A2", 0.5, 0.8], ["C3", 0.5, 0.8]
+    ],
+    "bass_G": [
+      ["G2", 0.5, 0.9], ["D3", 0.25, 0.7], ["_", 0.25], ["G2", 0.25, 0.8], ["_", 0.25], ["G3", 0.5, 0.9],
+      ["D3", 0.25, 0.8], ["_", 0.25], ["G2", 0.5, 0.9], ["B2", 0.5, 0.8], ["D3", 0.5, 0.8]
+    ],
+    "bass_A": [
+      ["A2", 0.5, 0.9], ["E3", 0.25, 0.7], ["_", 0.25], ["A2", 0.25, 0.8], ["_", 0.25], ["A3", 0.5, 0.9],
+      ["E3", 0.25, 0.8], ["_", 0.25], ["A2", 0.5, 0.9], ["C3", 0.5, 0.8], ["E3", 0.5, 0.8]
+    ],
+    "bass_C": [
+      ["C2", 0.5, 0.9], ["G2", 0.25, 0.7], ["_", 0.25], ["C2", 0.25, 0.8], ["_", 0.25], ["C3", 0.5, 0.9],
+      ["G2", 0.25, 0.8], ["_", 0.25], ["C2", 0.5, 0.9], ["E2", 0.5, 0.8], ["G2", 0.5, 0.8]
+    ],
+    "bass_drive_F": [
+      ["F2", 0.5, 0.9], ["F2", 0.5, 0.8], ["F2", 0.5, 0.9], ["F2", 0.5, 0.8], ["F2", 0.5, 0.9], ["F2", 0.5, 0.8], ["F2", 0.5, 0.9], ["F2", 0.5, 0.8]
+    ],
+    "bass_drive_G": [
+      ["G2", 0.5, 0.9], ["G2", 0.5, 0.8], ["G2", 0.5, 0.9], ["G2", 0.5, 0.8], ["G2", 0.5, 0.9], ["G2", 0.5, 0.8], ["G2", 0.5, 0.9], ["G2", 0.5, 0.8]
+    ],
+    "bass_drive_A": [
+      ["A2", 0.5, 0.9], ["A2", 0.5, 0.8], ["A2", 0.5, 0.9], ["A2", 0.5, 0.8], ["A2", 0.5, 0.9], ["A2", 0.5, 0.8], ["A2", 0.5, 0.9], ["A2", 0.5, 0.8]
+    ],
+    "bass_drive_F#": [
+      ["F#2", 0.5, 0.9], ["F#2", 0.5, 0.8], ["F#2", 0.5, 0.9], ["F#2", 0.5, 0.8], ["F#2", 0.5, 0.9], ["F#2", 0.5, 0.8], ["F#2", 0.5, 0.9], ["F#2", 0.5, 0.8]
+    ],
+    "lead_1": [
+      ["A4", 0.5, 0.9], ["E5", 0.75, 1.0], ["D5", 0.25, 0.8], ["C5", 0.5, 0.9], ["B4", 0.5, 0.8], ["A4", 1.0, 0.9], ["_", 0.5]
+    ],
+    "lead_2": [
+      ["G4", 0.5, 0.8], ["C5", 0.75, 0.9], ["B4", 0.25, 0.7], ["A4", 0.5, 0.8], ["G4", 0.5, 0.7], ["E4", 1.0, 0.8], ["_", 0.5]
+    ],
+    "lead_3": [
+      ["F4", 0.5, 0.8], ["A4", 0.75, 0.9], ["C5", 0.25, 0.8], ["E5", 1.0, 1.0], ["D5", 0.5, 0.9], ["C5", 0.5, 0.8], ["B4", 0.5, 0.8]
+    ],
+    "lead_4": [
+      ["C5", 0.5, 0.9], ["D5", 0.5, 0.9], ["E5", 1.5, 1.0], ["_", 0.5], ["G5", 0.25, 0.9], ["E5", 0.75, 1.0]
+    ],
+    "lead_5": [
+      ["F4", 0.5, 0.8], ["A4", 0.75, 0.9], ["C5", 0.25, 0.8], ["A5", 1.0, 1.0], ["G5", 0.5, 0.9], ["F5", 0.5, 0.8], ["E5", 0.5, 0.8]
+    ],
+    "lead_6": [
+      {"slide": ["D5", "E5"], "steps": 4, "dur": 1.0}, ["C5", 0.5, 0.9], ["B4", 0.5, 0.8], {"trill": ["A4", "B4"], "rate": 0.125, "dur": 2.0}
+    ],
+    "rise_1": [
+      ["A3", 0.5, 0.7], ["C4", 0.5, 0.7], ["E4", 0.5, 0.8], ["A4", 0.5, 0.8], ["B3", 0.5, 0.8], ["D4", 0.5, 0.8], ["F4", 0.5, 0.9], ["B4", 0.5, 0.9]
+    ],
+    "rise_2": [
+      ["C4", 0.5, 0.8], ["E4", 0.5, 0.8], ["G4", 0.5, 0.9], ["C5", 0.5, 0.9], ["D4", 0.5, 0.9], ["F4", 0.5, 0.9], ["A4", 0.5, 1.0], ["D5", 0.5, 1.0]
+    ],
+    "rise_3": [
+      ["E4", 0.5, 0.9], ["G4", 0.5, 0.9], ["B4", 0.5, 1.0], ["E5", 0.5, 1.0], ["F4", 0.5, 0.9], ["A4", 0.5, 1.0], ["C5", 0.5, 1.0], ["F5", 0.5, 1.0]
+    ],
+    "rise_4": [
+      ["G4", 0.25, 1.0], ["B4", 0.25, 1.0], ["D5", 0.25, 1.0], ["G5", 0.25, 1.0], ["A4", 0.25, 1.0], ["C5", 0.25, 1.0], ["E5", 0.25, 1.0], ["A5", 0.25, 1.0],
+      ["B4", 0.25, 1.0], ["D5", 0.25, 1.0], ["F5", 0.25, 1.0], ["B5", 0.25, 1.0], ["C5", 0.25, 1.0], ["E5", 0.25, 1.0], ["G5", 0.25, 1.0], ["C6", 0.25, 1.0]
+    ],
+    "wave_pad_1": [ {"arp": ["F2", "C3", "F3", "A3"], "rate": 0.25, "dur": 8.0, "v": 0.5} ],
+    "wave_pad_2": [ {"arp": ["G2", "D3", "G3", "B3"], "rate": 0.25, "dur": 8.0, "v": 0.5} ],
+    "wave_pad_3": [ {"arp": ["A2", "E3", "A3", "C4"], "rate": 0.25, "dur": 8.0, "v": 0.5} ],
+    "wave_pad_4": [ {"arp": ["C2", "G2", "C3", "E3"], "rate": 0.25, "dur": 8.0, "v": 0.5} ],
+    "wave_pad_4_alt": [ {"arp": ["E2", "B2", "E3", "G3"], "rate": 0.25, "dur": 8.0, "v": 0.5} ],
+    "arp_saw_F": [ {"arp": ["F4", "A4", "C5", "E5"], "rate": 0.0625, "dur": 4.0, "v": 0.4} ],
+    "arp_saw_G_nat": [ {"arp": ["G4", "B4", "D5", "F5"], "rate": 0.0625, "dur": 4.0, "v": 0.4} ],
+    "arp_saw_A_min": [ {"arp": ["A4", "C5", "E5", "G5"], "rate": 0.0625, "dur": 4.0, "v": 0.4} ],
+    "arp_saw_C_maj": [ {"arp": ["C4", "E4", "G4", "B4"], "rate": 0.0625, "dur": 4.0, "v": 0.4} ],
+    "arp_saw_F_sharp_maj": [ {"arp": ["F#4", "A#4", "C#5", "F#5"], "rate": 0.0625, "dur": 4.0, "v": 0.5} ],
+    "arp_saw_G_maj": [ {"arp": ["G4", "B4", "D5", "F#5"], "rate": 0.0625, "dur": 4.0, "v": 0.5} ],
+    "arp_saw_A_maj": [ {"arp": ["A4", "C#5", "E5", "G5"], "rate": 0.0625, "dur": 4.0, "v": 0.5} ],
+    "arp_saw_B_min": [ {"arp": ["B4", "D5", "F#5", "A5"], "rate": 0.0625, "dur": 4.0, "v": 0.5} ],
+    "arp_saw_D_maj": [ {"arp": ["D4", "F#4", "A4", "C#5"], "rate": 0.0625, "dur": 4.0, "v": 0.5} ],
+    "cm_1": [ ["C6", 0.25, 0.7], ["G5", 0.25, 0.5], ["E5", 0.25, 0.6], ["C5", 0.25, 0.5], ["C6", 0.25, 0.7], ["G5", 0.25, 0.5], ["E5", 0.25, 0.6], ["C5", 0.25, 0.5], ["C6", 0.25, 0.7], ["G5", 0.25, 0.5], ["E5", 0.25, 0.6], ["C5", 0.25, 0.5], ["C6", 0.25, 0.7], ["G5", 0.25, 0.5], ["E5", 0.25, 0.6], ["C5", 0.25, 0.5] ],
+    "cm_2": [ ["D6", 0.25, 0.7], ["A5", 0.25, 0.5], ["F5", 0.25, 0.6], ["D5", 0.25, 0.5], ["D6", 0.25, 0.7], ["A5", 0.25, 0.5], ["F5", 0.25, 0.6], ["D5", 0.25, 0.5], ["D6", 0.25, 0.7], ["A5", 0.25, 0.5], ["F5", 0.25, 0.6], ["D5", 0.25, 0.5], ["D6", 0.25, 0.7], ["A5", 0.25, 0.5], ["F5", 0.25, 0.6], ["D5", 0.25, 0.5] ],
+    "cm_3": [ ["E6", 0.25, 0.7], ["B5", 0.25, 0.5], ["G5", 0.25, 0.6], ["E5", 0.25, 0.5], ["E6", 0.25, 0.7], ["B5", 0.25, 0.5], ["G5", 0.25, 0.6], ["E5", 0.25, 0.5], ["E6", 0.25, 0.7], ["B5", 0.25, 0.5], ["G5", 0.25, 0.6], ["E5", 0.25, 0.5], ["E6", 0.25, 0.7], ["B5", 0.25, 0.5], ["G5", 0.25, 0.6], ["E5", 0.25, 0.5] ],
+    "cm_4": [ ["G6", 0.25, 0.7], ["D6", 0.25, 0.5], ["B5", 0.25, 0.6], ["G5", 0.25, 0.5], ["G6", 0.25, 0.7], ["D6", 0.25, 0.5], ["B5", 0.25, 0.6], ["G5", 0.25, 0.5], ["G6", 0.25, 0.7], ["D6", 0.25, 0.5], ["B5", 0.25, 0.6], ["G5", 0.25, 0.5], ["G6", 0.25, 0.7], ["D6", 0.25, 0.5], ["B5", 0.25, 0.6], ["G5", 0.25, 0.5] ]
+  },
+  "sections": [
+    {
+      "name": "Ignition",
+      "bars": 8,
+      "tracks": {
+        "wavetable": [
+          {"play": "wave_pad_1"}, {"play": "wave_pad_2"}, {"play": "wave_pad_3"}, {"play": "wave_pad_4"}
+        ],
+        "noise_long": [
+          ["_", 16.0],
+          {"play": "kick_basic", "repeat": 4}
+        ],
+        "sine": [
+          {"arp": ["A5", "C6", "E6"], "rate": 0.5, "dur": 16.0, "v": 0.3},
+          {"arp": ["G5", "B5", "D6"], "rate": 0.5, "dur": 16.0, "v": 0.3}
+        ],
+        "triangle": [
+          ["F2", 8.0, 0.6], ["G2", 8.0, 0.6], ["A2", 8.0, 0.6], ["C2", 8.0, 0.6]
+        ]
+      }
+    },
+    {
+      "name": "Lift Off",
+      "bars": 8,
+      "tracks": {
+        "triangle": [
+          {"play": "bass_F"}, {"play": "bass_G"}, {"play": "bass_A"}, {"play": "bass_C"},
+          {"play": "bass_F"}, {"play": "bass_G"}, {"play": "bass_A"}, {"play": "bass_C"}
+        ],
+        "noise_long": [
+          {"play": "kick_drive", "repeat": 8}
+        ],
+        "noise_short": [
+          {"play": "hihat_16th", "repeat": 32}
+        ],
+        "pulse_75": [
+          {"play": "lead_1", "transpose": -12}, {"play": "lead_2", "transpose": -12}, {"play": "lead_3", "transpose": -12}, {"play": "lead_4", "transpose": -12},
+          {"play": "lead_1", "transpose": -12}, {"play": "lead_2", "transpose": -12}, {"play": "lead_5", "transpose": -12}, {"play": "lead_6", "transpose": -12}
+        ],
+        "wavetable": [
+          {"play": "wave_pad_1"}, {"play": "wave_pad_2"}, {"play": "wave_pad_3"}, {"play": "wave_pad_4"}
+        ]
+      }
+    },
+    {
+      "name": "Atmosphere Escape",
+      "bars": 8,
+      "tracks": {
+        "pulse_50": [
+          {"play": "lead_1"}, {"play": "lead_2"}, {"play": "lead_3"}, {"play": "lead_4"},
+          {"play": "lead_1"}, {"play": "lead_2"}, {"play": "lead_5"}, {"play": "lead_6"}
+        ],
+        "pulse_25": [
+          {"delay_start": 0.75},
+          {"play": "lead_1", "velocity_mul": 0.5}, {"play": "lead_2", "velocity_mul": 0.5}, {"play": "lead_3", "velocity_mul": 0.5}, {"play": "lead_4", "velocity_mul": 0.5},
+          {"play": "lead_1", "velocity_mul": 0.5}, {"play": "lead_2", "velocity_mul": 0.5}, {"play": "lead_5", "velocity_mul": 0.5}, {"play": "lead_6", "velocity_mul": 0.5}
+        ],
+        "sawtooth": [
+          {"play": "arp_saw_F"}, {"play": "arp_saw_G_nat"}, {"play": "arp_saw_A_min"}, {"play": "arp_saw_C_maj"},
+          {"play": "arp_saw_F"}, {"play": "arp_saw_G_nat"}, {"play": "arp_saw_A_min"}, {"play": "arp_saw_C_maj"}
+        ],
+        "triangle": [
+          {"play": "bass_F"}, {"play": "bass_G"}, {"play": "bass_A"}, {"play": "bass_C"},
+          {"play": "bass_F"}, {"play": "bass_G"}, {"play": "bass_A"}, {"play": "bass_C"}
+        ],
+        "noise_long": [
+          {"play": "kick_drive", "repeat": 7},
+          {"play": "kick_four"}
+        ],
+        "noise_short": [
+          {"play": "snare_basic", "repeat": 3},
+          {"play": "snare_basic", "repeat": 3},
+          {"play": "snare_basic"},
+          {"play": "snare_build"}
+        ],
+        "noise_short_2": [
+          {"play": "hihat_16th", "repeat": 32}
+        ]
+      }
+    },
+    {
+      "name": "Zero-G Transition",
+      "bars": 8,
+      "tracks": {
+        "wavetable": [
+          {"play": "wave_pad_1"}, {"play": "wave_pad_2"}, {"play": "wave_pad_3"}, {"play": "wave_pad_4_alt"}
+        ],
+        "sine": [
+          ["A5", 2.0, 0.6], ["E6", 2.0, 0.6], ["D6", 1.0, 0.5], ["C6", 1.0, 0.5], ["_", 2.0],
+          ["G5", 2.0, 0.6], ["C6", 2.0, 0.6], ["B5", 1.0, 0.5], ["A5", 1.0, 0.5], ["_", 2.0],
+          ["F5", 2.0, 0.6], ["A5", 2.0, 0.6], ["E6", 4.0, 0.6],
+          ["C6", 1.0, 0.6], ["D6", 1.0, 0.6], ["E6", 6.0, 0.6]
+        ],
+        "noise_periodic": [
+          {"play": "hihat_16th", "repeat": 32, "velocity_mul": 0.4}
+        ]
+      }
+    },
+    {
+      "name": "Approaching the Rings",
+      "bars": 8,
+      "tracks": {
+        "pulse_75": [
+          {"play": "rise_1"}, {"play": "rise_2"}, {"play": "rise_3"}, {"play": "rise_4"},
+          {"play": "rise_1"}, {"play": "rise_2"}, {"play": "rise_3"}, {"play": "rise_4"}
+        ],
+        "noise_short": [
+          {"play": "snare_basic", "repeat": 4},
+          {"play": "snare_build", "repeat": 4}
+        ],
+        "noise_long": [
+          {"play": "kick_four", "repeat": 8}
+        ],
+        "triangle": [
+          {"play": "bass_drive_F"}, {"play": "bass_drive_G"}, {"play": "bass_drive_A"}, {"play": "bass_drive_F#"},
+          {"play": "bass_drive_F"}, {"play": "bass_drive_G"}, {"play": "bass_drive_A"}, {"play": "bass_drive_F#"}
+        ],
+        "sawtooth": [
+          {"play": "arp_saw_F"}, {"play": "arp_saw_G_nat"}, {"play": "arp_saw_A_min"}, {"play": "arp_saw_F_sharp_maj"},
+          {"play": "arp_saw_F"}, {"play": "arp_saw_G_nat"}, {"play": "arp_saw_A_min"}, {"play": "arp_saw_F_sharp_maj"}
+        ]
+      }
+    },
+    {
+      "name": "Orbital Apex",
+      "bars": 16,
+      "tracks": {
+        "pulse_50": [
+          {"play": "lead_1", "transpose": 2}, {"play": "lead_2", "transpose": 2}, {"play": "lead_3", "transpose": 2}, {"play": "lead_4", "transpose": 2},
+          {"play": "lead_1", "transpose": 2}, {"play": "lead_2", "transpose": 2}, {"play": "lead_5", "transpose": 2}, {"play": "lead_6", "transpose": 2},
+          {"play": "lead_1", "transpose": 2}, {"play": "lead_2", "transpose": 2}, {"play": "lead_3", "transpose": 2}, {"play": "lead_4", "transpose": 2},
+          {"play": "lead_1", "transpose": 2}, {"play": "lead_2", "transpose": 2}, {"play": "lead_5", "transpose": 2}, {"play": "lead_6", "transpose": 2}
+        ],
+        "pulse_25": [
+          {"delay_start": 0.75},
+          {"play": "lead_1", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_2", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_3", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_4", "transpose": 2, "velocity_mul": 0.5},
+          {"play": "lead_1", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_2", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_5", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_6", "transpose": 2, "velocity_mul": 0.5},
+          {"play": "lead_1", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_2", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_3", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_4", "transpose": 2, "velocity_mul": 0.5},
+          {"play": "lead_1", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_2", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_5", "transpose": 2, "velocity_mul": 0.5}, {"play": "lead_6", "transpose": 2, "velocity_mul": 0.5}
+        ],
+        "sawtooth": [
+          {"play": "arp_saw_G_maj"}, {"play": "arp_saw_A_maj"}, {"play": "arp_saw_B_min"}, {"play": "arp_saw_D_maj"},
+          {"play": "arp_saw_G_maj"}, {"play": "arp_saw_A_maj"}, {"play": "arp_saw_B_min"}, {"play": "arp_saw_D_maj"},
+          {"play": "arp_saw_G_maj"}, {"play": "arp_saw_A_maj"}, {"play": "arp_saw_B_min"}, {"play": "arp_saw_D_maj"},
+          {"play": "arp_saw_G_maj"}, {"play": "arp_saw_A_maj"}, {"play": "arp_saw_B_min"}, {"play": "arp_saw_D_maj"}
+        ],
+        "triangle": [
+          {"play": "bass_F", "transpose": 2}, {"play": "bass_G", "transpose": 2}, {"play": "bass_A", "transpose": 2}, {"play": "bass_C", "transpose": 2},
+          {"play": "bass_F", "transpose": 2}, {"play": "bass_G", "transpose": 2}, {"play": "bass_A", "transpose": 2}, {"play": "bass_C", "transpose": 2},
+          {"play": "bass_F", "transpose": 2}, {"play": "bass_G", "transpose": 2}, {"play": "bass_A", "transpose": 2}, {"play": "bass_C", "transpose": 2},
+          {"play": "bass_F", "transpose": 2}, {"play": "bass_G", "transpose": 2}, {"play": "bass_A", "transpose": 2}, {"play": "bass_C", "transpose": 2}
+        ],
+        "pulse_12": [
+          {"play": "cm_1", "transpose": 2}, {"play": "cm_2", "transpose": 2}, {"play": "cm_3", "transpose": 2}, {"play": "cm_4", "transpose": 2},
+          {"play": "cm_1", "transpose": 2}, {"play": "cm_2", "transpose": 2}, {"play": "cm_3", "transpose": 2}, {"play": "cm_4", "transpose": 2},
+          {"play": "cm_1", "transpose": 2}, {"play": "cm_2", "transpose": 2}, {"play": "cm_3", "transpose": 2}, {"play": "cm_4", "transpose": 2},
+          {"play": "cm_1", "transpose": 2}, {"play": "cm_2", "transpose": 2}, {"play": "cm_3", "transpose": 2}, {"play": "cm_4", "transpose": 2}
+        ],
+        "noise_long": [
+          {"play": "kick_drive", "repeat": 15},
+          {"play": "kick_four"}
+        ],
+        "noise_short": [
+          {"play": "hihat_16th", "repeat": 64}
+        ],
+        "noise_short_2": [
+          {"play": "snare_basic", "repeat": 7},
+          {"play": "snare_build"},
+          {"play": "snare_basic", "repeat": 7},
+          {"play": "snare_build"}
+        ]
+      }
+    },
+    {
+      "name": "Docking Sequence",
+      "bars": 8,
+      "tracks": {
+        "pulse_50": [
+          ["B4", 8.0, 0.8], ["F#5", 8.0, 0.7], ["D5", 8.0, 0.6], ["B4", 8.0, 0.4]
+        ],
+        "wavetable": [
+          {"arp": ["B2", "F#3", "B3", "D4"], "rate": 0.5, "dur": 32.0, "v": 0.3}
+        ],
+        "sine": [
+          {"arp": ["B4", "F#5", "B5", "D6"], "rate": 0.25, "dur": 32.0, "v": 0.4}
+        ],
+        "noise_long": [
+          ["C4", 0.5, 0.8], ["_", 3.5], ["C4", 0.5, 0.6], ["_", 3.5], ["C4", 0.5, 0.4], ["_", 23.5]
+        ]
+      }
+    }
+  ]
+}
