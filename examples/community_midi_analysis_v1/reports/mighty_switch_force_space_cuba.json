@@ -1,0 +1,1401 @@
+{
+  "source": {
+    "slug": "mighty_switch_force_space_cuba",
+    "game": "Mighty Switch Force!",
+    "title": "Whoa, I'm In Space Cuba!",
+    "sequencer": "Landon & Emma",
+    "year_context": 2011,
+    "info_url": "https://www.vgmusic.com/file/6f64653726ea3fc0004d1eecae7e9261.html",
+    "midi_url": "https://www.vgmusic.com/new-files/SpaceCuba.mid"
+  },
+  "downloaded_midi": "examples/community_midi_analysis_v1/midi/mighty_switch_force_space_cuba.mid",
+  "midi_type": 1,
+  "ticks_per_beat": 600,
+  "track_count": 10,
+  "note_count": 5259,
+  "duration_beats": 230.708,
+  "duration_seconds": 123.594,
+  "tempo_bpm_common": [
+    [
+      112.0,
+      1
+    ]
+  ],
+  "estimated_key": "F# major",
+  "role_counts": {
+    "empty_or_meta": 1,
+    "lead_or_counter": 3,
+    "harmony_or_arp": 3,
+    "bass": 2,
+    "drums": 1
+  },
+  "track_summaries": [
+    {
+      "track": 0,
+      "name": "Track 0",
+      "role": "empty_or_meta",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 1,
+      "name": "Track 1",
+      "role": "lead_or_counter",
+      "note_count": 466,
+      "density_per_4bar": 8.08,
+      "pitch_range": [
+        44,
+        82
+      ],
+      "median_velocity": 90.0,
+      "fast_4note_burst_count": 144
+    },
+    {
+      "track": 2,
+      "name": "Track 2",
+      "role": "lead_or_counter",
+      "note_count": 523,
+      "density_per_4bar": 9.07,
+      "pitch_range": [
+        25,
+        85
+      ],
+      "median_velocity": 90.0,
+      "fast_4note_burst_count": 185
+    },
+    {
+      "track": 3,
+      "name": "Track 3",
+      "role": "harmony_or_arp",
+      "note_count": 778,
+      "density_per_4bar": 13.61,
+      "pitch_range": [
+        33,
+        66
+      ],
+      "median_velocity": 90.0,
+      "fast_4note_burst_count": 496
+    },
+    {
+      "track": 4,
+      "name": "Track 4",
+      "role": "bass",
+      "note_count": 709,
+      "density_per_4bar": 12.29,
+      "pitch_range": [
+        24,
+        32
+      ],
+      "median_velocity": 90.0,
+      "fast_4note_burst_count": 389
+    },
+    {
+      "track": 5,
+      "name": "Track 5",
+      "role": "harmony_or_arp",
+      "note_count": 706,
+      "density_per_4bar": 12.25,
+      "pitch_range": [
+        46,
+        71
+      ],
+      "median_velocity": 90.0,
+      "fast_4note_burst_count": 411
+    },
+    {
+      "track": 6,
+      "name": "Track 6",
+      "role": "harmony_or_arp",
+      "note_count": 591,
+      "density_per_4bar": 10.25,
+      "pitch_range": [
+        25,
+        78
+      ],
+      "median_velocity": 90.0,
+      "fast_4note_burst_count": 260
+    },
+    {
+      "track": 7,
+      "name": "Track 7",
+      "role": "bass",
+      "note_count": 794,
+      "density_per_4bar": 13.77,
+      "pitch_range": [
+        13,
+        61
+      ],
+      "median_velocity": 90.0,
+      "fast_4note_burst_count": 510
+    },
+    {
+      "track": 8,
+      "name": "Track 8",
+      "role": "drums",
+      "note_count": 668,
+      "density_per_4bar": 11.6,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": 60.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 9,
+      "name": "Track 9",
+      "role": "lead_or_counter",
+      "note_count": 24,
+      "density_per_4bar": 0.51,
+      "pitch_range": [
+        59,
+        62
+      ],
+      "median_velocity": 64.0,
+      "fast_4note_burst_count": 0
+    }
+  ],
+  "top_abstract_cells": [
+    {
+      "track": "Track 1",
+      "role": "lead_or_counter",
+      "count": 7,
+      "contour": [
+        "same",
+        "step",
+        "same"
+      ],
+      "ioi_shape": [
+        "quarter",
+        "sixteenth",
+        "quarter"
+      ],
+      "duration_shape": [
+        "quarter",
+        "sixteenth",
+        "quarter",
+        "sixteenth"
+      ],
+      "intervals": [
+        0,
+        -1,
+        0
+      ],
+      "first_start_beat": 21.625,
+      "span_beats": 1.792,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 1",
+      "role": "lead_or_counter",
+      "count": 6,
+      "contour": [
+        "step",
+        "same",
+        "step"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "quarter",
+        "sixteenth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "quarter",
+        "sixteenth",
+        "quarter"
+      ],
+      "intervals": [
+        1,
+        0,
+        -1
+      ],
+      "first_start_beat": 21.375,
+      "span_beats": 1.75,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 2",
+      "role": "lead_or_counter",
+      "count": 20,
+      "contour": [
+        "step",
+        "step",
+        "step"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "very_fast",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "very_fast",
+        "very_fast",
+        "very_fast",
+        "very_fast"
+      ],
+      "intervals": [
+        2,
+        2,
+        1
+      ],
+      "first_start_beat": 56.417,
+      "span_beats": 0.167,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 2",
+      "role": "lead_or_counter",
+      "count": 7,
+      "contour": [
+        "same",
+        "step",
+        "same"
+      ],
+      "ioi_shape": [
+        "quarter",
+        "sixteenth",
+        "quarter"
+      ],
+      "duration_shape": [
+        "quarter",
+        "sixteenth",
+        "quarter",
+        "sixteenth"
+      ],
+      "intervals": [
+        0,
+        -1,
+        0
+      ],
+      "first_start_beat": 21.625,
+      "span_beats": 1.792,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 3",
+      "role": "harmony_or_arp",
+      "count": 68,
+      "contour": [
+        "step",
+        "step",
+        "step"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "very_fast",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "very_fast",
+        "very_fast",
+        "very_fast",
+        "very_fast"
+      ],
+      "intervals": [
+        2,
+        1,
+        -1
+      ],
+      "first_start_beat": 38.042,
+      "span_beats": 0.167,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 3",
+      "role": "harmony_or_arp",
+      "count": 14,
+      "contour": [
+        "up",
+        "down",
+        "step"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth",
+        "sixteenth"
+      ],
+      "intervals": [
+        12,
+        -12,
+        -1
+      ],
+      "first_start_beat": 21.625,
+      "span_beats": 1.125,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 4",
+      "role": "bass",
+      "count": 37,
+      "contour": [
+        "step",
+        "step",
+        "step"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        1,
+        -1,
+        1
+      ],
+      "first_start_beat": 1.375,
+      "span_beats": 1.333,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 4",
+      "role": "bass",
+      "count": 36,
+      "contour": [
+        "step",
+        "step",
+        "step"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "eighth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "eighth",
+        "eighth",
+        "sixteenth"
+      ],
+      "intervals": [
+        -1,
+        1,
+        1
+      ],
+      "first_start_beat": 1.583,
+      "span_beats": 1.375,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 5",
+      "role": "harmony_or_arp",
+      "count": 66,
+      "contour": [
+        "down",
+        "up",
+        "down"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "very_fast",
+        "sixteenth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "very_fast",
+        "sixteenth",
+        "very_fast"
+      ],
+      "intervals": [
+        -3,
+        3,
+        -3
+      ],
+      "first_start_beat": 120.583,
+      "span_beats": 0.75,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 5",
+      "role": "harmony_or_arp",
+      "count": 62,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "sixteenth",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "very_fast",
+        "sixteenth",
+        "very_fast",
+        "sixteenth"
+      ],
+      "intervals": [
+        3,
+        -3,
+        3
+      ],
+      "first_start_beat": 120.792,
+      "span_beats": 0.75,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 6",
+      "role": "harmony_or_arp",
+      "count": 10,
+      "contour": [
+        "same",
+        "same",
+        "same"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "duration_shape": [
+        "very_fast",
+        "very_fast",
+        "very_fast",
+        "very_fast"
+      ],
+      "intervals": [
+        0,
+        0,
+        0
+      ],
+      "first_start_beat": 0.25,
+      "span_beats": 0.833,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 6",
+      "role": "harmony_or_arp",
+      "count": 10,
+      "contour": [
+        "same",
+        "same",
+        "same"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "very_fast",
+        "eighth"
+      ],
+      "duration_shape": [
+        "very_fast",
+        "very_fast",
+        "eighth",
+        "very_fast"
+      ],
+      "intervals": [
+        0,
+        0,
+        0
+      ],
+      "first_start_beat": 72.667,
+      "span_beats": 0.458,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 7",
+      "role": "bass",
+      "count": 59,
+      "contour": [
+        "step",
+        "step",
+        "step"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "very_fast",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "very_fast",
+        "very_fast",
+        "very_fast",
+        "very_fast"
+      ],
+      "intervals": [
+        1,
+        -1,
+        -1
+      ],
+      "first_start_beat": 38.042,
+      "span_beats": 0.375,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 7",
+      "role": "bass",
+      "count": 14,
+      "contour": [
+        "up",
+        "down",
+        "step"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth",
+        "sixteenth"
+      ],
+      "intervals": [
+        12,
+        -12,
+        -1
+      ],
+      "first_start_beat": 21.625,
+      "span_beats": 1.125,
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 9",
+      "role": "lead_or_counter",
+      "count": 1,
+      "contour": [
+        "step",
+        "step",
+        "step"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "very_fast",
+        "eighth"
+      ],
+      "duration_shape": [
+        "eighth",
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        1,
+        1,
+        -1
+      ],
+      "first_start_beat": 42.0,
+      "span_beats": 1.0,
+      "median_velocity": 64.0
+    },
+    {
+      "track": "Track 9",
+      "role": "lead_or_counter",
+      "count": 1,
+      "contour": [
+        "step",
+        "step",
+        "step"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "eighth",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "eighth",
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        1,
+        -1,
+        1
+      ],
+      "first_start_beat": 42.0,
+      "span_beats": 1.0,
+      "median_velocity": 64.0
+    }
+  ],
+  "fast_4note_burst_count_total": 2395,
+  "fast_4note_bursts": [
+    {
+      "track": "Track 1",
+      "role": "lead_or_counter",
+      "start_beat": 3.833,
+      "span_beats": 1.125,
+      "contour": [
+        "up",
+        "step",
+        "step"
+      ],
+      "intervals": [
+        3,
+        2,
+        -2
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 1",
+      "role": "lead_or_counter",
+      "start_beat": 4.083,
+      "span_beats": 1.042,
+      "contour": [
+        "step",
+        "step",
+        "down"
+      ],
+      "intervals": [
+        2,
+        -2,
+        -3
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 1",
+      "role": "lead_or_counter",
+      "start_beat": 4.5,
+      "span_beats": 0.917,
+      "contour": [
+        "step",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        -2,
+        -3,
+        5
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 1",
+      "role": "lead_or_counter",
+      "start_beat": 4.75,
+      "span_beats": 1.292,
+      "contour": [
+        "down",
+        "up",
+        "down"
+      ],
+      "intervals": [
+        -3,
+        5,
+        -3
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 1",
+      "role": "lead_or_counter",
+      "start_beat": 11.042,
+      "span_beats": 1.125,
+      "contour": [
+        "up",
+        "step",
+        "step"
+      ],
+      "intervals": [
+        3,
+        2,
+        -2
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 2",
+      "role": "lead_or_counter",
+      "start_beat": 3.833,
+      "span_beats": 1.125,
+      "contour": [
+        "up",
+        "step",
+        "step"
+      ],
+      "intervals": [
+        3,
+        2,
+        -2
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 2",
+      "role": "lead_or_counter",
+      "start_beat": 4.083,
+      "span_beats": 1.042,
+      "contour": [
+        "step",
+        "step",
+        "down"
+      ],
+      "intervals": [
+        2,
+        -2,
+        -3
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 2",
+      "role": "lead_or_counter",
+      "start_beat": 4.5,
+      "span_beats": 0.917,
+      "contour": [
+        "step",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        -2,
+        -3,
+        5
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 2",
+      "role": "lead_or_counter",
+      "start_beat": 4.75,
+      "span_beats": 1.292,
+      "contour": [
+        "down",
+        "up",
+        "down"
+      ],
+      "intervals": [
+        -3,
+        5,
+        -3
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 2",
+      "role": "lead_or_counter",
+      "start_beat": 11.042,
+      "span_beats": 1.125,
+      "contour": [
+        "up",
+        "step",
+        "step"
+      ],
+      "intervals": [
+        3,
+        2,
+        -2
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 3",
+      "role": "harmony_or_arp",
+      "start_beat": 0.0,
+      "span_beats": 1.208,
+      "contour": [
+        "up",
+        "step",
+        "same"
+      ],
+      "intervals": [
+        5,
+        2,
+        0
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 3",
+      "role": "harmony_or_arp",
+      "start_beat": 0.25,
+      "span_beats": 1.292,
+      "contour": [
+        "step",
+        "same",
+        "up"
+      ],
+      "intervals": [
+        2,
+        0,
+        3
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 3",
+      "role": "harmony_or_arp",
+      "start_beat": 2.5,
+      "span_beats": 1.292,
+      "contour": [
+        "step",
+        "down",
+        "down"
+      ],
+      "intervals": [
+        -2,
+        -3,
+        -7
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 3",
+      "role": "harmony_or_arp",
+      "start_beat": 2.958,
+      "span_beats": 1.042,
+      "contour": [
+        "down",
+        "down",
+        "same"
+      ],
+      "intervals": [
+        -3,
+        -7,
+        0
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 3",
+      "role": "harmony_or_arp",
+      "start_beat": 3.167,
+      "span_beats": 1.208,
+      "contour": [
+        "down",
+        "same",
+        "step"
+      ],
+      "intervals": [
+        -7,
+        0,
+        2
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 4",
+      "role": "bass",
+      "start_beat": 0.458,
+      "span_beats": 1.125,
+      "contour": [
+        "step",
+        "step",
+        "down"
+      ],
+      "intervals": [
+        1,
+        1,
+        -3
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 4",
+      "role": "bass",
+      "start_beat": 0.917,
+      "span_beats": 0.917,
+      "contour": [
+        "step",
+        "down",
+        "step"
+      ],
+      "intervals": [
+        1,
+        -3,
+        1
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 4",
+      "role": "bass",
+      "start_beat": 1.125,
+      "span_beats": 1.125,
+      "contour": [
+        "down",
+        "step",
+        "step"
+      ],
+      "intervals": [
+        -3,
+        1,
+        -1
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 4",
+      "role": "bass",
+      "start_beat": 1.375,
+      "span_beats": 1.333,
+      "contour": [
+        "step",
+        "step",
+        "step"
+      ],
+      "intervals": [
+        1,
+        -1,
+        1
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 4",
+      "role": "bass",
+      "start_beat": 3.833,
+      "span_beats": 1.125,
+      "contour": [
+        "step",
+        "down",
+        "step"
+      ],
+      "intervals": [
+        1,
+        -3,
+        1
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 5",
+      "role": "harmony_or_arp",
+      "start_beat": 0.25,
+      "span_beats": 0.833,
+      "contour": [
+        "same",
+        "same",
+        "same"
+      ],
+      "intervals": [
+        0,
+        0,
+        0
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 5",
+      "role": "harmony_or_arp",
+      "start_beat": 0.458,
+      "span_beats": 0.708,
+      "contour": [
+        "same",
+        "same",
+        "same"
+      ],
+      "intervals": [
+        0,
+        0,
+        0
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 5",
+      "role": "harmony_or_arp",
+      "start_beat": 0.708,
+      "span_beats": 0.75,
+      "contour": [
+        "same",
+        "same",
+        "step"
+      ],
+      "intervals": [
+        0,
+        0,
+        -2
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 5",
+      "role": "harmony_or_arp",
+      "start_beat": 5.208,
+      "span_beats": 0.792,
+      "contour": [
+        "down",
+        "step",
+        "step"
+      ],
+      "intervals": [
+        -4,
+        1,
+        1
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 5",
+      "role": "harmony_or_arp",
+      "start_beat": 7.458,
+      "span_beats": 0.583,
+      "contour": [
+        "same",
+        "same",
+        "same"
+      ],
+      "intervals": [
+        0,
+        0,
+        0
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 6",
+      "role": "harmony_or_arp",
+      "start_beat": 0.25,
+      "span_beats": 0.833,
+      "contour": [
+        "same",
+        "same",
+        "same"
+      ],
+      "intervals": [
+        0,
+        0,
+        0
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 6",
+      "role": "harmony_or_arp",
+      "start_beat": 0.458,
+      "span_beats": 0.708,
+      "contour": [
+        "same",
+        "same",
+        "same"
+      ],
+      "intervals": [
+        0,
+        0,
+        0
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 6",
+      "role": "harmony_or_arp",
+      "start_beat": 0.708,
+      "span_beats": 0.75,
+      "contour": [
+        "same",
+        "same",
+        "step"
+      ],
+      "intervals": [
+        0,
+        0,
+        -1
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 6",
+      "role": "harmony_or_arp",
+      "start_beat": 5.208,
+      "span_beats": 0.792,
+      "contour": [
+        "down",
+        "step",
+        "step"
+      ],
+      "intervals": [
+        -3,
+        1,
+        1
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 6",
+      "role": "harmony_or_arp",
+      "start_beat": 5.417,
+      "span_beats": 1.25,
+      "contour": [
+        "step",
+        "step",
+        "same"
+      ],
+      "intervals": [
+        1,
+        1,
+        0
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 7",
+      "role": "bass",
+      "start_beat": 0.0,
+      "span_beats": 1.208,
+      "contour": [
+        "up",
+        "step",
+        "same"
+      ],
+      "intervals": [
+        5,
+        2,
+        0
+      ],
+      "median_velocity": 90.0
+    },
+    {
+      "track": "Track 7",
+      "role": "bass",
+      "start_beat": 0.25,
+      "span_beats": 1.292,
+      "contour": [
+        "step",
+        "same",
+        "up"
+      ],
+      "intervals": [
+        2,
+        0,
+        3
+      ],
+      "median_velocity": 90.0
+    }
+  ],
+  "drums": {
+    "note_count": 668,
+    "counts": {
+      "kick": 0,
+      "snare_clap": 0,
+      "closed_hat": 0,
+      "open_hat": 0,
+      "cymbal": 20
+    },
+    "common_bar_positions": {
+      "kick": [],
+      "snare_clap": [],
+      "closed_hat": [],
+      "open_hat": [],
+      "cymbal": [
+        [
+          2.0,
+          3
+        ],
+        [
+          0.75,
+          3
+        ],
+        [
+          2.75,
+          3
+        ],
+        [
+          1.5,
+          3
+        ],
+        [
+          4.0,
+          2
+        ],
+        [
+          3.5,
+          2
+        ]
+      ]
+    }
+  },
+  "section_density_4bar_blocks": [
+    {
+      "block": 1,
+      "beats": [
+        0.0,
+        16.0
+      ],
+      "notes": 322,
+      "tonal_notes": 274,
+      "drum_notes": 48,
+      "active_tracks": 9,
+      "median_tonal_pitch": 53.0
+    },
+    {
+      "block": 2,
+      "beats": [
+        16.0,
+        32.0
+      ],
+      "notes": 327,
+      "tonal_notes": 284,
+      "drum_notes": 43,
+      "active_tracks": 8,
+      "median_tonal_pitch": 51.0
+    },
+    {
+      "block": 3,
+      "beats": [
+        32.0,
+        48.0
+      ],
+      "notes": 449,
+      "tonal_notes": 400,
+      "drum_notes": 49,
+      "active_tracks": 9,
+      "median_tonal_pitch": 52.0
+    },
+    {
+      "block": 4,
+      "beats": [
+        48.0,
+        64.0
+      ],
+      "notes": 368,
+      "tonal_notes": 323,
+      "drum_notes": 45,
+      "active_tracks": 8,
+      "median_tonal_pitch": 53.0
+    },
+    {
+      "block": 5,
+      "beats": [
+        64.0,
+        80.0
+      ],
+      "notes": 387,
+      "tonal_notes": 338,
+      "drum_notes": 49,
+      "active_tracks": 8,
+      "median_tonal_pitch": 52.0
+    },
+    {
+      "block": 6,
+      "beats": [
+        80.0,
+        96.0
+      ],
+      "notes": 397,
+      "tonal_notes": 345,
+      "drum_notes": 52,
+      "active_tracks": 8,
+      "median_tonal_pitch": 53.0
+    },
+    {
+      "block": 7,
+      "beats": [
+        96.0,
+        112.0
+      ],
+      "notes": 341,
+      "tonal_notes": 296,
+      "drum_notes": 45,
+      "active_tracks": 8,
+      "median_tonal_pitch": 51.0
+    },
+    {
+      "block": 8,
+      "beats": [
+        112.0,
+        128.0
+      ],
+      "notes": 348,
+      "tonal_notes": 301,
+      "drum_notes": 47,
+      "active_tracks": 9,
+      "median_tonal_pitch": 54.0
+    },
+    {
+      "block": 9,
+      "beats": [
+        128.0,
+        144.0
+      ],
+      "notes": 304,
+      "tonal_notes": 263,
+      "drum_notes": 41,
+      "active_tracks": 8,
+      "median_tonal_pitch": 53.0
+    },
+    {
+      "block": 10,
+      "beats": [
+        144.0,
+        160.0
+      ],
+      "notes": 457,
+      "tonal_notes": 410,
+      "drum_notes": 47,
+      "active_tracks": 9,
+      "median_tonal_pitch": 54.0
+    },
+    {
+      "block": 11,
+      "beats": [
+        160.0,
+        176.0
+      ],
+      "notes": 376,
+      "tonal_notes": 330,
+      "drum_notes": 46,
+      "active_tracks": 8,
+      "median_tonal_pitch": 54.0
+    },
+    {
+      "block": 12,
+      "beats": [
+        176.0,
+        192.0
+      ],
+      "notes": 296,
+      "tonal_notes": 247,
+      "drum_notes": 49,
+      "active_tracks": 9,
+      "median_tonal_pitch": 54.0
+    },
+    {
+      "block": 13,
+      "beats": [
+        192.0,
+        208.0
+      ],
+      "notes": 319,
+      "tonal_notes": 277,
+      "drum_notes": 42,
+      "active_tracks": 8,
+      "median_tonal_pitch": 54.0
+    },
+    {
+      "block": 14,
+      "beats": [
+        208.0,
+        224.0
+      ],
+      "notes": 384,
+      "tonal_notes": 336,
+      "drum_notes": 48,
+      "active_tracks": 8,
+      "median_tonal_pitch": 47.0
+    },
+    {
+      "block": 15,
+      "beats": [
+        224.0,
+        240.0
+      ],
+      "notes": 184,
+      "tonal_notes": 167,
+      "drum_notes": 17,
+      "active_tracks": 8,
+      "median_tonal_pitch": 54.0
+    }
+  ]
+}

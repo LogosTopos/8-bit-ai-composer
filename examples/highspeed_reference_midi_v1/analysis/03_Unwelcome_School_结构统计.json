@@ -1,0 +1,62 @@
+{
+  "file": "examples/highspeed_reference_midi_v1/midi/03_Unwelcome_School.mid",
+  "type": 1,
+  "ticks_per_beat": 480,
+  "midi_tracks": 2,
+  "render_tracks": 2,
+  "duration_sec": 119.483,
+  "note_count": 2384,
+  "notes_per_second": 19.953,
+  "tempo_changes": 4,
+  "bpm_values_head": [
+    180.0,
+    180.0,
+    180.0,
+    180.0
+  ],
+  "non_drum_programs_top": [
+    {
+      "channel": 0,
+      "program": 0,
+      "notes": 2384,
+      "family": "piano"
+    }
+  ],
+  "original_track_note_counts_top": [
+    {
+      "track_idx": 1,
+      "notes": 1232
+    },
+    {
+      "track_idx": 0,
+      "notes": 1152
+    }
+  ],
+  "render_track_summaries_top": [
+    {
+      "track_idx": 1,
+      "channel": 0,
+      "program": 0,
+      "family": "piano",
+      "instrument": "pulse_50",
+      "notes": 1232,
+      "avg_pitch": 54.57
+    },
+    {
+      "track_idx": 0,
+      "channel": 0,
+      "program": 0,
+      "family": "piano",
+      "instrument": "pulse_25",
+      "notes": 1152,
+      "avg_pitch": 75.22
+    }
+  ],
+  "title": "Unwelcome School",
+  "category": "现代游戏/紧张喜剧战斗感",
+  "source_kind": "uploader.jp direct midi",
+  "source_url": "https://uu.getuploader.com/k1one_t1one/download/8",
+  "mp3_path": "examples/highspeed_reference_midi_v1/mp3/03_Unwelcome_School_全曲.mp3",
+  "audio_peak": 0.87777,
+  "audio_rms": 0.14744
+}

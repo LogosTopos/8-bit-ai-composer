@@ -1,0 +1,101 @@
+{
+  "file": "examples/highspeed_reference_midi_v1/midi/08_Night_of_Nights.mid",
+  "type": 1,
+  "ticks_per_beat": 960,
+  "midi_tracks": 5,
+  "render_tracks": 8,
+  "duration_sec": 191.999,
+  "note_count": 4510,
+  "notes_per_second": 23.49,
+  "tempo_changes": 1,
+  "bpm_values_head": [
+    180.0
+  ],
+  "non_drum_programs_top": [
+    {
+      "channel": 0,
+      "program": 0,
+      "notes": 2475,
+      "family": "piano"
+    }
+  ],
+  "original_track_note_counts_top": [
+    {
+      "track_idx": 4,
+      "notes": 2035
+    },
+    {
+      "track_idx": 1,
+      "notes": 1294
+    },
+    {
+      "track_idx": 3,
+      "notes": 1105
+    },
+    {
+      "track_idx": 2,
+      "notes": 76
+    }
+  ],
+  "render_track_summaries_top": [
+    {
+      "track_idx": 1,
+      "channel": 0,
+      "program": 0,
+      "family": "piano",
+      "instrument": "pulse_25",
+      "notes": 1294,
+      "avg_pitch": 66.55
+    },
+    {
+      "track_idx": 3,
+      "channel": 0,
+      "program": 0,
+      "family": "piano",
+      "instrument": "triangle",
+      "notes": 1105,
+      "avg_pitch": 41.85
+    },
+    {
+      "group": "hat",
+      "instrument": "noise_short",
+      "notes": 644
+    },
+    {
+      "group": "snare",
+      "instrument": "noise_short",
+      "notes": 580
+    },
+    {
+      "group": "kick",
+      "instrument": "triangle",
+      "notes": 480
+    },
+    {
+      "group": "cymbal",
+      "instrument": "noise_long",
+      "notes": 308
+    },
+    {
+      "track_idx": 2,
+      "channel": 0,
+      "program": 0,
+      "family": "piano",
+      "instrument": "pulse_50",
+      "notes": 76,
+      "avg_pitch": 95.74
+    },
+    {
+      "group": "tom",
+      "instrument": "triangle",
+      "notes": 23
+    }
+  ],
+  "title": "Night of Nights",
+  "category": "高速同人音游常用/连续高密度主旋律",
+  "source_kind": "uploader.jp direct midi",
+  "source_url": "https://uu.getuploader.com/k1one_t1one/download/3",
+  "mp3_path": "examples/highspeed_reference_midi_v1/mp3/08_Night_of_Nights_全曲.mp3",
+  "audio_peak": 0.95,
+  "audio_rms": 0.14488
+}

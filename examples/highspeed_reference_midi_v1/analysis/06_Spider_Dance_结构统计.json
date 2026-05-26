@@ -1,0 +1,284 @@
+{
+  "file": "examples/highspeed_reference_midi_v1/midi/06_Spider_Dance.mid",
+  "type": 1,
+  "ticks_per_beat": 96,
+  "midi_tracks": 16,
+  "render_tracks": 17,
+  "duration_sec": 100.174,
+  "note_count": 5641,
+  "notes_per_second": 56.312,
+  "tempo_changes": 1,
+  "bpm_values_head": [
+    115.0
+  ],
+  "non_drum_programs_top": [
+    {
+      "channel": 3,
+      "program": 62,
+      "notes": 545,
+      "family": "brass"
+    },
+    {
+      "channel": 12,
+      "program": 62,
+      "notes": 545,
+      "family": "brass"
+    },
+    {
+      "channel": 5,
+      "program": 7,
+      "notes": 464,
+      "family": "piano"
+    },
+    {
+      "channel": 10,
+      "program": 7,
+      "notes": 464,
+      "family": "piano"
+    },
+    {
+      "channel": 2,
+      "program": 48,
+      "notes": 348,
+      "family": "ensemble"
+    },
+    {
+      "channel": 15,
+      "program": 89,
+      "notes": 348,
+      "family": "pad"
+    },
+    {
+      "channel": 6,
+      "program": 80,
+      "notes": 305,
+      "family": "lead"
+    },
+    {
+      "channel": 13,
+      "program": 80,
+      "notes": 305,
+      "family": "lead"
+    },
+    {
+      "channel": 7,
+      "program": 81,
+      "notes": 280,
+      "family": "lead"
+    },
+    {
+      "channel": 1,
+      "program": 34,
+      "notes": 280,
+      "family": "bass"
+    },
+    {
+      "channel": 4,
+      "program": 34,
+      "notes": 280,
+      "family": "bass"
+    },
+    {
+      "channel": 8,
+      "program": 80,
+      "notes": 151,
+      "family": "lead"
+    }
+  ],
+  "original_track_note_counts_top": [
+    {
+      "track_idx": 15,
+      "notes": 1181
+    },
+    {
+      "track_idx": 4,
+      "notes": 545
+    },
+    {
+      "track_idx": 5,
+      "notes": 545
+    },
+    {
+      "track_idx": 2,
+      "notes": 464
+    },
+    {
+      "track_idx": 3,
+      "notes": 464
+    },
+    {
+      "track_idx": 13,
+      "notes": 348
+    },
+    {
+      "track_idx": 14,
+      "notes": 348
+    },
+    {
+      "track_idx": 6,
+      "notes": 305
+    },
+    {
+      "track_idx": 7,
+      "notes": 305
+    },
+    {
+      "track_idx": 10,
+      "notes": 280
+    },
+    {
+      "track_idx": 11,
+      "notes": 280
+    },
+    {
+      "track_idx": 12,
+      "notes": 280
+    }
+  ],
+  "render_track_summaries_top": [
+    {
+      "track_idx": 4,
+      "channel": 3,
+      "program": 62,
+      "family": "brass",
+      "instrument": "sawtooth",
+      "notes": 545,
+      "avg_pitch": 73.65
+    },
+    {
+      "track_idx": 5,
+      "channel": 12,
+      "program": 62,
+      "family": "brass",
+      "instrument": "sawtooth",
+      "notes": 545,
+      "avg_pitch": 73.65
+    },
+    {
+      "track_idx": 2,
+      "channel": 5,
+      "program": 7,
+      "family": "piano",
+      "instrument": "pulse_50",
+      "notes": 464,
+      "avg_pitch": 64.93
+    },
+    {
+      "track_idx": 3,
+      "channel": 10,
+      "program": 7,
+      "family": "piano",
+      "instrument": "pulse_50",
+      "notes": 464,
+      "avg_pitch": 64.93
+    },
+    {
+      "group": "hat",
+      "instrument": "noise_short",
+      "notes": 451
+    },
+    {
+      "track_idx": 13,
+      "channel": 2,
+      "program": 48,
+      "family": "ensemble",
+      "instrument": "wavetable",
+      "notes": 348,
+      "avg_pitch": 66.66
+    },
+    {
+      "track_idx": 14,
+      "channel": 15,
+      "program": 89,
+      "family": "pad",
+      "instrument": "wavetable",
+      "notes": 348,
+      "avg_pitch": 66.66
+    },
+    {
+      "group": "kick",
+      "instrument": "triangle",
+      "notes": 325
+    },
+    {
+      "group": "snare",
+      "instrument": "noise_short",
+      "notes": 323
+    },
+    {
+      "track_idx": 6,
+      "channel": 6,
+      "program": 80,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 305,
+      "avg_pitch": 75.2
+    },
+    {
+      "track_idx": 7,
+      "channel": 13,
+      "program": 80,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 305,
+      "avg_pitch": 75.2
+    },
+    {
+      "track_idx": 10,
+      "channel": 7,
+      "program": 81,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 280,
+      "avg_pitch": 50.88
+    },
+    {
+      "track_idx": 11,
+      "channel": 1,
+      "program": 34,
+      "family": "bass",
+      "instrument": "triangle",
+      "notes": 280,
+      "avg_pitch": 38.88
+    },
+    {
+      "track_idx": 12,
+      "channel": 4,
+      "program": 34,
+      "family": "bass",
+      "instrument": "triangle",
+      "notes": 280,
+      "avg_pitch": 38.88
+    },
+    {
+      "track_idx": 8,
+      "channel": 8,
+      "program": 80,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 151,
+      "avg_pitch": 85.25
+    },
+    {
+      "track_idx": 9,
+      "channel": 14,
+      "program": 80,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 145,
+      "avg_pitch": 85.28
+    },
+    {
+      "group": "cymbal",
+      "instrument": "noise_long",
+      "notes": 82
+    }
+  ],
+  "title": "Spider Dance",
+  "category": "现代像素战斗/快速切分",
+  "source_kind": "VGMusic direct midi",
+  "source_url": "https://www.vgmusic.com/music/computer/microsoft/windows/UT_Spider_Dance_v2_Lu9.mid",
+  "mp3_path": "examples/highspeed_reference_midi_v1/mp3/06_Spider_Dance_全曲.mp3",
+  "audio_peak": 0.95,
+  "audio_rms": 0.14779
+}

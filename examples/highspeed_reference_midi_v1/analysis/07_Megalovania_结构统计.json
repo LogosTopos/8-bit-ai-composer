@@ -1,0 +1,261 @@
+{
+  "file": "examples/highspeed_reference_midi_v1/midi/07_Megalovania.mid",
+  "type": 1,
+  "ticks_per_beat": 192,
+  "midi_tracks": 15,
+  "render_tracks": 15,
+  "duration_sec": 312.0,
+  "note_count": 8784,
+  "notes_per_second": 28.154,
+  "tempo_changes": 2,
+  "bpm_values_head": [
+    120.0,
+    120.0
+  ],
+  "non_drum_programs_top": [
+    {
+      "channel": 11,
+      "program": 30,
+      "notes": 3168,
+      "family": "guitar"
+    },
+    {
+      "channel": 1,
+      "program": 34,
+      "notes": 1288,
+      "family": "bass"
+    },
+    {
+      "channel": 0,
+      "program": 81,
+      "notes": 640,
+      "family": "lead"
+    },
+    {
+      "channel": 15,
+      "program": 61,
+      "notes": 480,
+      "family": "brass"
+    },
+    {
+      "channel": 10,
+      "program": 48,
+      "notes": 160,
+      "family": "ensemble"
+    },
+    {
+      "channel": 2,
+      "program": 61,
+      "notes": 160,
+      "family": "brass"
+    },
+    {
+      "channel": 13,
+      "program": 80,
+      "notes": 136,
+      "family": "lead"
+    },
+    {
+      "channel": 12,
+      "program": 18,
+      "notes": 68,
+      "family": "organ"
+    },
+    {
+      "channel": 4,
+      "program": 55,
+      "notes": 64,
+      "family": "ensemble"
+    },
+    {
+      "channel": 14,
+      "program": 80,
+      "notes": 60,
+      "family": "lead"
+    },
+    {
+      "channel": 3,
+      "program": 52,
+      "notes": 40,
+      "family": "ensemble"
+    }
+  ],
+  "original_track_note_counts_top": [
+    {
+      "track_idx": 10,
+      "notes": 3168
+    },
+    {
+      "track_idx": 14,
+      "notes": 1416
+    },
+    {
+      "track_idx": 11,
+      "notes": 1288
+    },
+    {
+      "track_idx": 3,
+      "notes": 640
+    },
+    {
+      "track_idx": 13,
+      "notes": 616
+    },
+    {
+      "track_idx": 12,
+      "notes": 488
+    },
+    {
+      "track_idx": 7,
+      "notes": 480
+    },
+    {
+      "track_idx": 1,
+      "notes": 160
+    },
+    {
+      "track_idx": 8,
+      "notes": 160
+    },
+    {
+      "track_idx": 5,
+      "notes": 136
+    },
+    {
+      "track_idx": 6,
+      "notes": 68
+    },
+    {
+      "track_idx": 2,
+      "notes": 64
+    }
+  ],
+  "render_track_summaries_top": [
+    {
+      "track_idx": 10,
+      "channel": 11,
+      "program": 30,
+      "family": "guitar",
+      "instrument": "triangle",
+      "notes": 3168,
+      "avg_pitch": 42.73
+    },
+    {
+      "track_idx": 11,
+      "channel": 1,
+      "program": 34,
+      "family": "bass",
+      "instrument": "triangle",
+      "notes": 1288,
+      "avg_pitch": 36.39
+    },
+    {
+      "group": "hat",
+      "instrument": "noise_short",
+      "notes": 1024
+    },
+    {
+      "group": "kick",
+      "instrument": "triangle",
+      "notes": 888
+    },
+    {
+      "track_idx": 3,
+      "channel": 0,
+      "program": 81,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 640,
+      "avg_pitch": 53.71
+    },
+    {
+      "group": "snare",
+      "instrument": "noise_short",
+      "notes": 528
+    },
+    {
+      "track_idx": 7,
+      "channel": 15,
+      "program": 61,
+      "family": "brass",
+      "instrument": "sawtooth",
+      "notes": 480,
+      "avg_pitch": 71.82
+    },
+    {
+      "track_idx": 1,
+      "channel": 10,
+      "program": 48,
+      "family": "ensemble",
+      "instrument": "wavetable",
+      "notes": 160,
+      "avg_pitch": 77.65
+    },
+    {
+      "track_idx": 8,
+      "channel": 2,
+      "program": 61,
+      "family": "brass",
+      "instrument": "sawtooth",
+      "notes": 160,
+      "avg_pitch": 65.8
+    },
+    {
+      "track_idx": 5,
+      "channel": 13,
+      "program": 80,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 136,
+      "avg_pitch": 76.84
+    },
+    {
+      "group": "cymbal",
+      "instrument": "noise_long",
+      "notes": 80
+    },
+    {
+      "track_idx": 6,
+      "channel": 12,
+      "program": 18,
+      "family": "organ",
+      "instrument": "pulse_25",
+      "notes": 68,
+      "avg_pitch": 78.0
+    },
+    {
+      "track_idx": 2,
+      "channel": 4,
+      "program": 55,
+      "family": "ensemble",
+      "instrument": "wavetable",
+      "notes": 64,
+      "avg_pitch": 67.75
+    },
+    {
+      "track_idx": 4,
+      "channel": 14,
+      "program": 80,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 60,
+      "avg_pitch": 80.5
+    },
+    {
+      "track_idx": 9,
+      "channel": 3,
+      "program": 52,
+      "family": "ensemble",
+      "instrument": "wavetable",
+      "notes": 40,
+      "avg_pitch": 50.5
+    }
+  ],
+  "title": "Megalovania",
+  "category": "现代像素战斗/强hook",
+  "source_kind": "VGMusic direct midi",
+  "source_url": "https://www.vgmusic.com/music/computer/microsoft/windows/Undertale_-_Megalovania_v1_2.mid",
+  "mp3_path": "examples/highspeed_reference_midi_v1/mp3/07_Megalovania_全曲.mp3",
+  "audio_peak": 0.95,
+  "audio_rms": 0.152
+}

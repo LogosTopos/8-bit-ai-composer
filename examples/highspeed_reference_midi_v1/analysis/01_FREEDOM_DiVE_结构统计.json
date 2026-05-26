@@ -1,0 +1,308 @@
+{
+  "file": "examples/highspeed_reference_midi_v1/midi/01_FREEDOM_DiVE.mid",
+  "type": 1,
+  "ticks_per_beat": 480,
+  "midi_tracks": 18,
+  "render_tracks": 20,
+  "duration_sec": 260.782,
+  "note_count": 32791,
+  "notes_per_second": 125.741,
+  "tempo_changes": 2,
+  "bpm_values_head": [
+    60.0,
+    222.221
+  ],
+  "non_drum_programs_top": [
+    {
+      "channel": 5,
+      "program": 100,
+      "notes": 5315,
+      "family": "fx"
+    },
+    {
+      "channel": 12,
+      "program": 24,
+      "notes": 4939,
+      "family": "guitar"
+    },
+    {
+      "channel": 8,
+      "program": 81,
+      "notes": 4196,
+      "family": "lead"
+    },
+    {
+      "channel": 7,
+      "program": 96,
+      "notes": 2362,
+      "family": "fx"
+    },
+    {
+      "channel": 1,
+      "program": 9,
+      "notes": 2267,
+      "family": "bell"
+    },
+    {
+      "channel": 3,
+      "program": 87,
+      "notes": 1389,
+      "family": "lead"
+    },
+    {
+      "channel": 14,
+      "program": 62,
+      "notes": 1059,
+      "family": "brass"
+    },
+    {
+      "channel": 6,
+      "program": 94,
+      "notes": 1056,
+      "family": "pad"
+    },
+    {
+      "channel": 10,
+      "program": 100,
+      "notes": 965,
+      "family": "fx"
+    },
+    {
+      "channel": 0,
+      "program": 0,
+      "notes": 929,
+      "family": "piano"
+    },
+    {
+      "channel": 2,
+      "program": 38,
+      "notes": 700,
+      "family": "bass"
+    },
+    {
+      "channel": 11,
+      "program": 81,
+      "notes": 608,
+      "family": "lead"
+    }
+  ],
+  "original_track_note_counts_top": [
+    {
+      "track_idx": 12,
+      "notes": 6823
+    },
+    {
+      "track_idx": 2,
+      "notes": 5315
+    },
+    {
+      "track_idx": 13,
+      "notes": 4939
+    },
+    {
+      "track_idx": 3,
+      "notes": 4196
+    },
+    {
+      "track_idx": 4,
+      "notes": 2362
+    },
+    {
+      "track_idx": 8,
+      "notes": 2267
+    },
+    {
+      "track_idx": 9,
+      "notes": 1389
+    },
+    {
+      "track_idx": 11,
+      "notes": 1059
+    },
+    {
+      "track_idx": 5,
+      "notes": 1056
+    },
+    {
+      "track_idx": 6,
+      "notes": 965
+    },
+    {
+      "track_idx": 7,
+      "notes": 929
+    },
+    {
+      "track_idx": 14,
+      "notes": 700
+    }
+  ],
+  "render_track_summaries_top": [
+    {
+      "track_idx": 2,
+      "channel": 5,
+      "program": 100,
+      "family": "fx",
+      "instrument": "sawtooth",
+      "notes": 5315,
+      "avg_pitch": 81.18
+    },
+    {
+      "track_idx": 13,
+      "channel": 12,
+      "program": 24,
+      "family": "guitar",
+      "instrument": "triangle",
+      "notes": 4939,
+      "avg_pitch": 39.51
+    },
+    {
+      "track_idx": 3,
+      "channel": 8,
+      "program": 81,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 4196,
+      "avg_pitch": 77.56
+    },
+    {
+      "group": "hat",
+      "instrument": "noise_short",
+      "notes": 2944
+    },
+    {
+      "track_idx": 4,
+      "channel": 7,
+      "program": 96,
+      "family": "fx",
+      "instrument": "sawtooth",
+      "notes": 2362,
+      "avg_pitch": 85.15
+    },
+    {
+      "track_idx": 8,
+      "channel": 1,
+      "program": 9,
+      "family": "bell",
+      "instrument": "fm_bell",
+      "notes": 2267,
+      "avg_pitch": 98.35
+    },
+    {
+      "group": "kick",
+      "instrument": "triangle",
+      "notes": 1550
+    },
+    {
+      "group": "snare",
+      "instrument": "noise_short",
+      "notes": 1461
+    },
+    {
+      "track_idx": 9,
+      "channel": 3,
+      "program": 87,
+      "family": "lead",
+      "instrument": "triangle",
+      "notes": 1389,
+      "avg_pitch": 41.16
+    },
+    {
+      "track_idx": 11,
+      "channel": 14,
+      "program": 62,
+      "family": "brass",
+      "instrument": "sawtooth",
+      "notes": 1059,
+      "avg_pitch": 78.23
+    },
+    {
+      "track_idx": 5,
+      "channel": 6,
+      "program": 94,
+      "family": "pad",
+      "instrument": "wavetable",
+      "notes": 1056,
+      "avg_pitch": 60.81
+    },
+    {
+      "track_idx": 6,
+      "channel": 10,
+      "program": 100,
+      "family": "fx",
+      "instrument": "sawtooth",
+      "notes": 965,
+      "avg_pitch": 68.39
+    },
+    {
+      "track_idx": 7,
+      "channel": 0,
+      "program": 0,
+      "family": "piano",
+      "instrument": "pulse_25",
+      "notes": 929,
+      "avg_pitch": 76.13
+    },
+    {
+      "track_idx": 14,
+      "channel": 2,
+      "program": 38,
+      "family": "bass",
+      "instrument": "triangle",
+      "notes": 700,
+      "avg_pitch": 32.35
+    },
+    {
+      "track_idx": 15,
+      "channel": 11,
+      "program": 81,
+      "family": "lead",
+      "instrument": "triangle",
+      "notes": 608,
+      "avg_pitch": 32.21
+    },
+    {
+      "group": "perc",
+      "instrument": "noise_periodic",
+      "notes": 523
+    },
+    {
+      "group": "cymbal",
+      "instrument": "noise_long",
+      "notes": 345
+    },
+    {
+      "track_idx": 10,
+      "channel": 4,
+      "program": 14,
+      "family": "bell",
+      "instrument": "fm_bell",
+      "notes": 85,
+      "avg_pitch": 73.4
+    },
+    {
+      "track_idx": 16,
+      "channel": 13,
+      "program": 80,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 52,
+      "avg_pitch": 83.42
+    },
+    {
+      "track_idx": 17,
+      "channel": 15,
+      "program": 119,
+      "family": "other",
+      "instrument": "pulse_50",
+      "notes": 46,
+      "avg_pitch": 72.13
+    }
+  ],
+  "title": "FREEDOM DiVE",
+  "category": "超高速音游/222BPM级",
+  "source_kind": "uploader.jp direct midi",
+  "source_url": "https://uu.getuploader.com/k1one_t1one/download/37",
+  "mp3_path": "examples/highspeed_reference_midi_v1/mp3/01_FREEDOM_DiVE_全曲.mp3",
+  "audio_peak": 0.95,
+  "audio_rms": 0.10202
+}

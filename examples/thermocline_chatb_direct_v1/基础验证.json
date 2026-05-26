@@ -1,0 +1,62 @@
+{
+  "sample_rate": 44100,
+  "expected_duration_sec": 82.5,
+  "master_shape": [
+    3638250,
+    2
+  ],
+  "master_duration_sec": 82.5,
+  "master_has_nan": false,
+  "master_peak": 0.94,
+  "master_rms_db": -16.34,
+  "lead_only_rms_db": -13.57,
+  "no_lead_rms_db": -16.99,
+  "fit_gate_rms_db": -16.51,
+  "bass_drums_only_rms_db": -16.98,
+  "first_lead_beat": 64.0,
+  "first_lead_bar_zero_based": 16.0,
+  "lead_delayed_pass": true,
+  "support_level_policy": {
+    "lead_rms_db": -24.16,
+    "bass_rms_db": -20.28,
+    "drums_rms_db": -20.95,
+    "harmony_arp_counter_combined_rms_db": -27.25,
+    "policy": "lead must not sit far above bass/drums; support buses are intentionally raised from v1",
+    "pass": true
+  },
+  "bus_stats": {
+    "01_低频_bass": {
+      "peak": 0.455616,
+      "rms_db": -20.28
+    },
+    "02_鼓组_drums": {
+      "peak": 1.208687,
+      "rms_db": -20.95
+    },
+    "03_主旋律_lead_delayed_soft": {
+      "peak": 0.253627,
+      "rms_db": -24.16
+    },
+    "04_和声_stabs": {
+      "peak": 0.145826,
+      "rms_db": -31.05
+    },
+    "05_和声_pad": {
+      "peak": 0.107893,
+      "rms_db": -32.08
+    },
+    "06_arp_grid": {
+      "peak": 0.309187,
+      "rms_db": -38.07
+    },
+    "07_counter_shadow": {
+      "peak": 0.103639,
+      "rms_db": -39.86
+    },
+    "08_预留空间_fx": {
+      "peak": 0.034974,
+      "rms_db": -61.25
+    }
+  },
+  "pass": true
+}

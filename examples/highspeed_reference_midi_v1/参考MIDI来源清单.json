@@ -1,0 +1,82 @@
+[
+  {
+    "key": "01",
+    "title": "FREEDOM DiVE",
+    "category": "超高速音游/222BPM级",
+    "source_kind": "uploader.jp direct midi",
+    "source_url": "https://uu.getuploader.com/k1one_t1one/download/37",
+    "midi_path": "examples/highspeed_reference_midi_v1/midi/01_FREEDOM_DiVE.mid",
+    "bytes": 277560,
+    "md5": "024b1dd6300986b8a56c86fe0452af0c"
+  },
+  {
+    "key": "02",
+    "title": "REDZONE",
+    "category": "音游/高速短riff",
+    "source_kind": "uploader.jp direct midi",
+    "source_url": "https://uu.getuploader.com/k1one_t1one/download/4",
+    "midi_path": "examples/highspeed_reference_midi_v1/midi/02_REDZONE.mid",
+    "bytes": 18861,
+    "md5": "9034583bc319045cfab15efa12f1b330"
+  },
+  {
+    "key": "03",
+    "title": "Unwelcome School",
+    "category": "现代游戏/紧张喜剧战斗感",
+    "source_kind": "uploader.jp direct midi",
+    "source_url": "https://uu.getuploader.com/k1one_t1one/download/8",
+    "midi_path": "examples/highspeed_reference_midi_v1/midi/03_Unwelcome_School.mid",
+    "bytes": 14781,
+    "md5": "db16e3548a92825b1a96c7c3bac7f978"
+  },
+  {
+    "key": "04",
+    "title": "Battle Against a True Hero",
+    "category": "现代像素战斗/高速旋律",
+    "source_kind": "VGMusic direct midi",
+    "source_url": "https://www.vgmusic.com/music/computer/microsoft/windows/98_-_Battle_Against_a_True_Hero.mid",
+    "midi_path": "examples/highspeed_reference_midi_v1/midi/04_Battle_Against_a_True_Hero.mid",
+    "bytes": 53690,
+    "md5": "7544076b407964796f549b14ce1b5760"
+  },
+  {
+    "key": "05",
+    "title": "Rude Buster",
+    "category": "现代像素战斗/爽感riff",
+    "source_kind": "VGMusic direct midi",
+    "source_url": "https://www.vgmusic.com/new-files/DELTARUNE_-_Chapter_1_-_Rude_Buster_-_ShinkoNetCavy.mid",
+    "midi_path": "examples/highspeed_reference_midi_v1/midi/05_Rude_Buster.mid",
+    "bytes": 104291,
+    "md5": "4edeca32ba8688bc52289de791b6e18d"
+  },
+  {
+    "key": "06",
+    "title": "Spider Dance",
+    "category": "现代像素战斗/快速切分",
+    "source_kind": "VGMusic direct midi",
+    "source_url": "https://www.vgmusic.com/music/computer/microsoft/windows/UT_Spider_Dance_v2_Lu9.mid",
+    "midi_path": "examples/highspeed_reference_midi_v1/midi/06_Spider_Dance.mid",
+    "bytes": 48875,
+    "md5": "d8cd6e1125c5c059c1a301db98b5abe0"
+  },
+  {
+    "key": "07",
+    "title": "Megalovania",
+    "category": "现代像素战斗/强hook",
+    "source_kind": "VGMusic direct midi",
+    "source_url": "https://www.vgmusic.com/music/computer/microsoft/windows/Undertale_-_Megalovania_v1_2.mid",
+    "midi_path": "examples/highspeed_reference_midi_v1/midi/07_Megalovania.mid",
+    "bytes": 82285,
+    "md5": "e84eb434ddd44a792ec9f6e837f904b6"
+  },
+  {
+    "key": "08",
+    "title": "Night of Nights",
+    "category": "高速同人音游常用/连续高密度主旋律",
+    "source_kind": "uploader.jp direct midi",
+    "source_url": "https://uu.getuploader.com/k1one_t1one/download/3",
+    "midi_path": "examples/highspeed_reference_midi_v1/midi/08_Night_of_Nights.mid",
+    "bytes": 40899,
+    "md5": "57d89a449a6c066589a0ccc2c90b5f40"
+  }
+]

@@ -1,14 +1,17 @@
-# Virtual environment
+# Virtual environments
 .venv/
+.venv-*/
+venv/
 
 # Python cache
 __pycache__/
 *.pyc
 *.pyo
 
-# Audio outputs (binary)
+# Generated audio outputs
 *.wav
-*.mp3
+*.aiff
+*.flac
 
 # Environment secrets
 .env
@@ -23,6 +26,11 @@ Thumbs.db
 # Output directories (generated audio)
 output/
 */output/
+exports/
+release/
+
+# Curated MP3 examples are intentionally committed for quick listening.
+!examples/**/*.mp3
 
 # SoundFonts (large binary files, download separately)
 assets/soundfonts/
@@ -31,3 +39,4 @@ assets/fluidsynth/
 # Temp / scratch
 *.zip
 *.bat
+*.tmp

@@ -1,0 +1,289 @@
+{
+  "file": "examples/highspeed_reference_midi_v1/midi/04_Battle_Against_a_True_Hero.mid",
+  "type": 1,
+  "ticks_per_beat": 1000,
+  "midi_tracks": 15,
+  "render_tracks": 18,
+  "duration_sec": 154.4,
+  "note_count": 6408,
+  "notes_per_second": 41.503,
+  "tempo_changes": 1,
+  "bpm_values_head": [
+    150.0
+  ],
+  "non_drum_programs_top": [
+    {
+      "channel": 0,
+      "program": 0,
+      "notes": 1524,
+      "family": "piano"
+    },
+    {
+      "channel": 7,
+      "program": 87,
+      "notes": 967,
+      "family": "lead"
+    },
+    {
+      "channel": 8,
+      "program": 37,
+      "notes": 739,
+      "family": "bass"
+    },
+    {
+      "channel": 5,
+      "program": 87,
+      "notes": 534,
+      "family": "lead"
+    },
+    {
+      "channel": 4,
+      "program": 48,
+      "notes": 244,
+      "family": "ensemble"
+    },
+    {
+      "channel": 10,
+      "program": 56,
+      "notes": 218,
+      "family": "brass"
+    },
+    {
+      "channel": 1,
+      "program": 52,
+      "notes": 187,
+      "family": "ensemble"
+    },
+    {
+      "channel": 2,
+      "program": 14,
+      "notes": 100,
+      "family": "bell"
+    },
+    {
+      "channel": 3,
+      "program": 45,
+      "notes": 92,
+      "family": "strings"
+    },
+    {
+      "channel": 12,
+      "program": 24,
+      "notes": 82,
+      "family": "guitar"
+    },
+    {
+      "channel": 11,
+      "program": 9,
+      "notes": 71,
+      "family": "bell"
+    },
+    {
+      "channel": 6,
+      "program": 68,
+      "notes": 58,
+      "family": "reed"
+    }
+  ],
+  "original_track_note_counts_top": [
+    {
+      "track_idx": 10,
+      "notes": 1587
+    },
+    {
+      "track_idx": 1,
+      "notes": 1524
+    },
+    {
+      "track_idx": 8,
+      "notes": 967
+    },
+    {
+      "track_idx": 9,
+      "notes": 739
+    },
+    {
+      "track_idx": 6,
+      "notes": 534
+    },
+    {
+      "track_idx": 5,
+      "notes": 244
+    },
+    {
+      "track_idx": 11,
+      "notes": 218
+    },
+    {
+      "track_idx": 2,
+      "notes": 187
+    },
+    {
+      "track_idx": 3,
+      "notes": 100
+    },
+    {
+      "track_idx": 4,
+      "notes": 92
+    },
+    {
+      "track_idx": 13,
+      "notes": 82
+    },
+    {
+      "track_idx": 12,
+      "notes": 71
+    }
+  ],
+  "render_track_summaries_top": [
+    {
+      "track_idx": 1,
+      "channel": 0,
+      "program": 0,
+      "family": "piano",
+      "instrument": "pulse_50",
+      "notes": 1524,
+      "avg_pitch": 58.72
+    },
+    {
+      "track_idx": 8,
+      "channel": 7,
+      "program": 87,
+      "family": "lead",
+      "instrument": "triangle",
+      "notes": 967,
+      "avg_pitch": 35.77
+    },
+    {
+      "group": "hat",
+      "instrument": "noise_short",
+      "notes": 858
+    },
+    {
+      "track_idx": 9,
+      "channel": 8,
+      "program": 37,
+      "family": "bass",
+      "instrument": "triangle",
+      "notes": 739,
+      "avg_pitch": 35.05
+    },
+    {
+      "track_idx": 6,
+      "channel": 5,
+      "program": 87,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 534,
+      "avg_pitch": 68.23
+    },
+    {
+      "group": "kick",
+      "instrument": "triangle",
+      "notes": 403
+    },
+    {
+      "group": "snare",
+      "instrument": "noise_short",
+      "notes": 288
+    },
+    {
+      "track_idx": 5,
+      "channel": 4,
+      "program": 48,
+      "family": "ensemble",
+      "instrument": "wavetable",
+      "notes": 244,
+      "avg_pitch": 60.77
+    },
+    {
+      "track_idx": 11,
+      "channel": 10,
+      "program": 56,
+      "family": "brass",
+      "instrument": "sawtooth",
+      "notes": 218,
+      "avg_pitch": 77.41
+    },
+    {
+      "track_idx": 2,
+      "channel": 1,
+      "program": 52,
+      "family": "ensemble",
+      "instrument": "wavetable",
+      "notes": 187,
+      "avg_pitch": 61.61
+    },
+    {
+      "track_idx": 3,
+      "channel": 2,
+      "program": 14,
+      "family": "bell",
+      "instrument": "fm_bell",
+      "notes": 100,
+      "avg_pitch": 60.36
+    },
+    {
+      "track_idx": 4,
+      "channel": 3,
+      "program": 45,
+      "family": "strings",
+      "instrument": "wavetable",
+      "notes": 92,
+      "avg_pitch": 71.43
+    },
+    {
+      "track_idx": 13,
+      "channel": 12,
+      "program": 24,
+      "family": "guitar",
+      "instrument": "pulse_25",
+      "notes": 82,
+      "avg_pitch": 56.32
+    },
+    {
+      "track_idx": 12,
+      "channel": 11,
+      "program": 9,
+      "family": "bell",
+      "instrument": "fm_bell",
+      "notes": 71,
+      "avg_pitch": 90.79
+    },
+    {
+      "track_idx": 7,
+      "channel": 6,
+      "program": 68,
+      "family": "reed",
+      "instrument": "pulse_50",
+      "notes": 58,
+      "avg_pitch": 67.69
+    },
+    {
+      "group": "perc",
+      "instrument": "noise_periodic",
+      "notes": 30
+    },
+    {
+      "group": "cymbal",
+      "instrument": "noise_long",
+      "notes": 8
+    },
+    {
+      "track_idx": 14,
+      "channel": 13,
+      "program": 119,
+      "family": "other",
+      "instrument": "pulse_50",
+      "notes": 5,
+      "avg_pitch": 60.0
+    }
+  ],
+  "title": "Battle Against a True Hero",
+  "category": "现代像素战斗/高速旋律",
+  "source_kind": "VGMusic direct midi",
+  "source_url": "https://www.vgmusic.com/music/computer/microsoft/windows/98_-_Battle_Against_a_True_Hero.mid",
+  "mp3_path": "examples/highspeed_reference_midi_v1/mp3/04_Battle_Against_a_True_Hero_全曲.mp3",
+  "audio_peak": 0.95,
+  "audio_rms": 0.19725
+}

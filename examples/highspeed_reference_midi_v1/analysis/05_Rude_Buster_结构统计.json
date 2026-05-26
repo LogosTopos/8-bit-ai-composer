@@ -1,0 +1,280 @@
+{
+  "file": "examples/highspeed_reference_midi_v1/midi/05_Rude_Buster.mid",
+  "type": 1,
+  "ticks_per_beat": 96,
+  "midi_tracks": 14,
+  "render_tracks": 17,
+  "duration_sec": 150.857,
+  "note_count": 10984,
+  "notes_per_second": 72.811,
+  "tempo_changes": 1,
+  "bpm_values_head": [
+    140.0
+  ],
+  "non_drum_programs_top": [
+    {
+      "channel": 0,
+      "program": 0,
+      "notes": 1998,
+      "family": "piano"
+    },
+    {
+      "channel": 4,
+      "program": 37,
+      "notes": 1088,
+      "family": "bass"
+    },
+    {
+      "channel": 3,
+      "program": 36,
+      "notes": 1086,
+      "family": "bass"
+    },
+    {
+      "channel": 5,
+      "program": 80,
+      "notes": 548,
+      "family": "lead"
+    },
+    {
+      "channel": 7,
+      "program": 81,
+      "notes": 440,
+      "family": "lead"
+    },
+    {
+      "channel": 2,
+      "program": 1,
+      "notes": 420,
+      "family": "piano"
+    },
+    {
+      "channel": 1,
+      "program": 2,
+      "notes": 352,
+      "family": "piano"
+    },
+    {
+      "channel": 8,
+      "program": 7,
+      "notes": 324,
+      "family": "piano"
+    },
+    {
+      "channel": 11,
+      "program": 30,
+      "notes": 324,
+      "family": "guitar"
+    },
+    {
+      "channel": 1,
+      "program": 0,
+      "notes": 180,
+      "family": "piano"
+    },
+    {
+      "channel": 6,
+      "program": 10,
+      "notes": 116,
+      "family": "bell"
+    },
+    {
+      "channel": 10,
+      "program": 119,
+      "notes": 4,
+      "family": "other"
+    }
+  ],
+  "original_track_note_counts_top": [
+    {
+      "track_idx": 11,
+      "notes": 4104
+    },
+    {
+      "track_idx": 2,
+      "notes": 1998
+    },
+    {
+      "track_idx": 6,
+      "notes": 1088
+    },
+    {
+      "track_idx": 5,
+      "notes": 1086
+    },
+    {
+      "track_idx": 7,
+      "notes": 548
+    },
+    {
+      "track_idx": 3,
+      "notes": 532
+    },
+    {
+      "track_idx": 9,
+      "notes": 440
+    },
+    {
+      "track_idx": 4,
+      "notes": 420
+    },
+    {
+      "track_idx": 10,
+      "notes": 324
+    },
+    {
+      "track_idx": 13,
+      "notes": 324
+    },
+    {
+      "track_idx": 8,
+      "notes": 116
+    },
+    {
+      "track_idx": 12,
+      "notes": 4
+    }
+  ],
+  "render_track_summaries_top": [
+    {
+      "track_idx": 2,
+      "channel": 0,
+      "program": 0,
+      "family": "piano",
+      "instrument": "pulse_50",
+      "notes": 1998,
+      "avg_pitch": 49.7
+    },
+    {
+      "group": "perc",
+      "instrument": "noise_periodic",
+      "notes": 1408
+    },
+    {
+      "group": "hat",
+      "instrument": "noise_short",
+      "notes": 1256
+    },
+    {
+      "track_idx": 6,
+      "channel": 4,
+      "program": 37,
+      "family": "bass",
+      "instrument": "triangle",
+      "notes": 1088,
+      "avg_pitch": 34.96
+    },
+    {
+      "track_idx": 5,
+      "channel": 3,
+      "program": 36,
+      "family": "bass",
+      "instrument": "triangle",
+      "notes": 1086,
+      "avg_pitch": 34.95
+    },
+    {
+      "group": "kick",
+      "instrument": "triangle",
+      "notes": 880
+    },
+    {
+      "group": "snare",
+      "instrument": "noise_short",
+      "notes": 550
+    },
+    {
+      "track_idx": 7,
+      "channel": 5,
+      "program": 80,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 548,
+      "avg_pitch": 80.93
+    },
+    {
+      "track_idx": 9,
+      "channel": 7,
+      "program": 81,
+      "family": "lead",
+      "instrument": "sawtooth",
+      "notes": 440,
+      "avg_pitch": 70.67
+    },
+    {
+      "track_idx": 4,
+      "channel": 2,
+      "program": 1,
+      "family": "piano",
+      "instrument": "triangle",
+      "notes": 420,
+      "avg_pitch": 41.65
+    },
+    {
+      "track_idx": 3,
+      "channel": 1,
+      "program": 2,
+      "family": "piano",
+      "instrument": "triangle",
+      "notes": 352,
+      "avg_pitch": 41.68
+    },
+    {
+      "track_idx": 10,
+      "channel": 8,
+      "program": 7,
+      "family": "piano",
+      "instrument": "pulse_50",
+      "notes": 324,
+      "avg_pitch": 59.1
+    },
+    {
+      "track_idx": 13,
+      "channel": 11,
+      "program": 30,
+      "family": "guitar",
+      "instrument": "pulse_25",
+      "notes": 324,
+      "avg_pitch": 59.1
+    },
+    {
+      "track_idx": 3,
+      "channel": 1,
+      "program": 0,
+      "family": "piano",
+      "instrument": "pulse_50",
+      "notes": 180,
+      "avg_pitch": 60.87
+    },
+    {
+      "track_idx": 8,
+      "channel": 6,
+      "program": 10,
+      "family": "bell",
+      "instrument": "fm_bell",
+      "notes": 116,
+      "avg_pitch": 69.48
+    },
+    {
+      "group": "cymbal",
+      "instrument": "noise_long",
+      "notes": 10
+    },
+    {
+      "track_idx": 12,
+      "channel": 10,
+      "program": 119,
+      "family": "other",
+      "instrument": "pulse_50",
+      "notes": 4,
+      "avg_pitch": 47.5
+    }
+  ],
+  "title": "Rude Buster",
+  "category": "现代像素战斗/爽感riff",
+  "source_kind": "VGMusic direct midi",
+  "source_url": "https://www.vgmusic.com/new-files/DELTARUNE_-_Chapter_1_-_Rude_Buster_-_ShinkoNetCavy.mid",
+  "mp3_path": "examples/highspeed_reference_midi_v1/mp3/05_Rude_Buster_全曲.mp3",
+  "audio_peak": 0.95,
+  "audio_rms": 0.15635
+}

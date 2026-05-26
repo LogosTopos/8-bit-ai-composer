@@ -1,0 +1,9 @@
+stem,peak_pre_master_gain,rms_db_pre_master_gain
+01_低频_bass,0.455616,-20.28
+02_鼓组_drums,1.208687,-20.95
+03_主旋律_lead_delayed_soft,0.253627,-24.16
+04_和声_stabs,0.145826,-31.05
+05_和声_pad,0.107893,-32.08
+06_arp_grid,0.309187,-38.07
+07_counter_shadow,0.103639,-39.86
+08_预留空间_fx,0.034974,-61.25

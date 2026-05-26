@@ -1,0 +1,46 @@
+{
+  "file": "examples/highspeed_reference_midi_v1/midi/02_REDZONE.mid",
+  "type": 1,
+  "ticks_per_beat": 480,
+  "midi_tracks": 17,
+  "render_tracks": 1,
+  "duration_sec": 106.167,
+  "note_count": 2284,
+  "notes_per_second": 21.513,
+  "tempo_changes": 1,
+  "bpm_values_head": [
+    165.0
+  ],
+  "non_drum_programs_top": [
+    {
+      "channel": 0,
+      "program": 108,
+      "notes": 2284,
+      "family": "other"
+    }
+  ],
+  "original_track_note_counts_top": [
+    {
+      "track_idx": 1,
+      "notes": 2284
+    }
+  ],
+  "render_track_summaries_top": [
+    {
+      "track_idx": 1,
+      "channel": 0,
+      "program": 108,
+      "family": "other",
+      "instrument": "pulse_50",
+      "notes": 2284,
+      "avg_pitch": 49.11
+    }
+  ],
+  "title": "REDZONE",
+  "category": "音游/高速短riff",
+  "source_kind": "uploader.jp direct midi",
+  "source_url": "https://uu.getuploader.com/k1one_t1one/download/4",
+  "mp3_path": "examples/highspeed_reference_midi_v1/mp3/02_REDZONE_全曲.mp3",
+  "audio_peak": 0.95,
+  "audio_rms": 0.2427
+}

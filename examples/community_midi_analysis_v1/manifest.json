@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "undertale_megalovania_v12",
+    "game": "Undertale",
+    "title": "Megalovania",
+    "sequencer": "Jay Reichard",
+    "year_context": 2015,
+    "info_url": "https://www.vgmusic.com/file/e84eb434ddd44a792ec9f6e837f904b6.html",
+    "midi_url": "https://www.vgmusic.com/music/computer/microsoft/windows/Undertale_-_Megalovania_v1_2.mid"
+  },
+  {
+    "slug": "undertale_hopes_and_dreams",
+    "game": "Undertale",
+    "title": "Hopes and Dreams",
+    "sequencer": "Dracula9AntiChapel",
+    "year_context": 2015,
+    "info_url": "https://www.vgmusic.com/file/2270502e27efa270c56d72213dc3eda9.html",
+    "midi_url": "https://www.vgmusic.com/music/computer/microsoft/windows/Undertale_Hopes-and-Dreams.mid"
+  },
+  {
+    "slug": "deltarune_field_of_hopes_and_dreams",
+    "game": "Deltarune",
+    "title": "Field of Hopes and Dreams",
+    "sequencer": "ShinkoNetCavy",
+    "year_context": 2018,
+    "info_url": "https://www.vgmusic.com/file/62c38c568a549ebe3f189c4c9fcd5a94.html",
+    "midi_url": "https://www.vgmusic.com/new-files/DELTARUNE_-_Chapter_1_-_Field_of_Hopes_and_Dreams_-_ShinkoNetCavy.mid"
+  },
+  {
+    "slug": "deltarune_the_world_revolving",
+    "game": "Deltarune",
+    "title": "THE WORLD REVOLVING",
+    "sequencer": "ilmutus",
+    "year_context": 2018,
+    "info_url": "https://www.vgmusic.com/file/911be4655c1127f0e7cedf4096a9b594.html",
+    "midi_url": "https://www.vgmusic.com/new-files/Deltarune_-_THE_WORLD_REVOLVING.mid"
+  },
+  {
+    "slug": "shovel_knight_strike_the_earth",
+    "game": "Shovel Knight",
+    "title": "Plains of Passage - \"Strike the Earth!\"",
+    "sequencer": "Sean Bee",
+    "year_context": 2014,
+    "info_url": "https://www.vgmusic.com/file/28073188cecc6f26354770e8c001b62b.html",
+    "midi_url": "https://www.vgmusic.com/music/console/nintendo/3ds/ShovelKn_Stage1_2.mid"
+  },
+  {
+    "slug": "shovel_knight_high_above_the_land",
+    "game": "Shovel Knight",
+    "title": "High Above the Land",
+    "sequencer": "Mash0Star",
+    "year_context": 2014,
+    "info_url": "https://www.vgmusic.com/file/65d554e4c9a7edbe3ff97100c7762c08.html",
+    "midi_url": "https://www.vgmusic.com/new-files/highabovethelandarranged.mid"
+  },
+  {
+    "slug": "mighty_switch_force_space_cuba",
+    "game": "Mighty Switch Force!",
+    "title": "Whoa, I'm In Space Cuba!",
+    "sequencer": "Landon & Emma",
+    "year_context": 2011,
+    "info_url": "https://www.vgmusic.com/file/6f64653726ea3fc0004d1eecae7e9261.html",
+    "midi_url": "https://www.vgmusic.com/new-files/SpaceCuba.mid"
+  },
+  {
+    "slug": "mighty_switch_force_level_select",
+    "game": "Mighty Switch Force!",
+    "title": "Level Select",
+    "sequencer": "Monster Iestyn",
+    "year_context": 2011,
+    "info_url": "https://www.vgmusic.com/file/e4b0ae3ac828a60a3982f5c82ca4791d.html",
+    "midi_url": "https://www.vgmusic.com/new-files/Mighty_Switch_Force_-_Level_Select.mid"
+  },
+  {
+    "slug": "shantae_pirates_curse_sky",
+    "game": "Shantae and the Pirate's Curse",
+    "title": "Sky",
+    "sequencer": "Monster Iestyn",
+    "year_context": 2014,
+    "info_url": "https://www.vgmusic.com/file/fa6fa1509e5b3166c025860b72c99dca.html",
+    "midi_url": "https://www.vgmusic.com/new-files/Shantae_and_the_Pirates_Curse_-_Sky.mid"
+  },
+  {
+    "slug": "cave_story_moonsong",
+    "game": "Cave Story",
+    "title": "Moonsong",
+    "sequencer": "Vaporeon",
+    "year_context": 2004,
+    "info_url": "https://www.vgmusic.com/file/eab25b9ef5f1e69ad922b5cbd393c911.html",
+    "midi_url": "https://www.vgmusic.com/new-files/cs_oside.mid"
+  }
+]

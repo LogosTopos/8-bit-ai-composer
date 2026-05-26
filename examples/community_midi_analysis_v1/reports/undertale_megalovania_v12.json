@@ -1,0 +1,1819 @@
+{
+  "source": {
+    "slug": "undertale_megalovania_v12",
+    "game": "Undertale",
+    "title": "Megalovania",
+    "sequencer": "Jay Reichard",
+    "year_context": 2015,
+    "info_url": "https://www.vgmusic.com/file/e84eb434ddd44a792ec9f6e837f904b6.html",
+    "midi_url": "https://www.vgmusic.com/music/computer/microsoft/windows/Undertale_-_Megalovania_v1_2.mid"
+  },
+  "downloaded_midi": "examples/community_midi_analysis_v1/midi/undertale_megalovania_v12.mid",
+  "midi_type": 1,
+  "ticks_per_beat": 192,
+  "track_count": 15,
+  "note_count": 8784,
+  "duration_beats": 624.0,
+  "duration_seconds": 312.0,
+  "tempo_bpm_common": [
+    [
+      120.0,
+      2
+    ]
+  ],
+  "estimated_key": "D minor",
+  "role_counts": {
+    "lead_or_counter": 10,
+    "bass": 2,
+    "drums": 3
+  },
+  "track_summaries": [
+    {
+      "track": 0,
+      "name": "Megalovania",
+      "role": "lead_or_counter",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 1,
+      "name": "Staff-5",
+      "role": "lead_or_counter",
+      "note_count": 160,
+      "density_per_4bar": 1.7,
+      "pitch_range": [
+        70,
+        86
+      ],
+      "median_velocity": 127.0,
+      "fast_4note_burst_count": 42
+    },
+    {
+      "track": 2,
+      "name": "Staff-13",
+      "role": "lead_or_counter",
+      "note_count": 64,
+      "density_per_4bar": 0.48,
+      "pitch_range": [
+        57,
+        77
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 12
+    },
+    {
+      "track": 3,
+      "name": "Staff",
+      "role": "lead_or_counter",
+      "note_count": 640,
+      "density_per_4bar": 4.1,
+      "pitch_range": [
+        46,
+        62
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 177
+    },
+    {
+      "track": 4,
+      "name": "Staff-9",
+      "role": "lead_or_counter",
+      "note_count": 60,
+      "density_per_4bar": 0.59,
+      "pitch_range": [
+        74,
+        91
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 5,
+      "name": "Staff-8",
+      "role": "lead_or_counter",
+      "note_count": 136,
+      "density_per_4bar": 1.33,
+      "pitch_range": [
+        70,
+        86
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 32
+    },
+    {
+      "track": 6,
+      "name": "Staff-7",
+      "role": "lead_or_counter",
+      "note_count": 68,
+      "density_per_4bar": 0.72,
+      "pitch_range": [
+        70,
+        86
+      ],
+      "median_velocity": 75.0,
+      "fast_4note_burst_count": 2
+    },
+    {
+      "track": 7,
+      "name": "Staff-10",
+      "role": "lead_or_counter",
+      "note_count": 480,
+      "density_per_4bar": 4.07,
+      "pitch_range": [
+        53,
+        85
+      ],
+      "median_velocity": 127.0,
+      "fast_4note_burst_count": 256
+    },
+    {
+      "track": 8,
+      "name": "Staff-11",
+      "role": "lead_or_counter",
+      "note_count": 160,
+      "density_per_4bar": 1.36,
+      "pitch_range": [
+        50,
+        77
+      ],
+      "median_velocity": 127.0,
+      "fast_4note_burst_count": 52
+    },
+    {
+      "track": 9,
+      "name": "Staff-12",
+      "role": "lead_or_counter",
+      "note_count": 40,
+      "density_per_4bar": 0.3,
+      "pitch_range": [
+        46,
+        53
+      ],
+      "median_velocity": 108.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 10,
+      "name": "Staff-6",
+      "role": "bass",
+      "note_count": 3168,
+      "density_per_4bar": 21.12,
+      "pitch_range": [
+        34,
+        58
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 1728
+    },
+    {
+      "track": 11,
+      "name": "Staff-1",
+      "role": "bass",
+      "note_count": 1288,
+      "density_per_4bar": 8.59,
+      "pitch_range": [
+        34,
+        51
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 64
+    },
+    {
+      "track": 12,
+      "name": "Staff-3",
+      "role": "drums",
+      "note_count": 488,
+      "density_per_4bar": 3.25,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 13,
+      "name": "Staff-4",
+      "role": "drums",
+      "note_count": 616,
+      "density_per_4bar": 4.11,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": 75.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 14,
+      "name": "Staff-2",
+      "role": "drums",
+      "note_count": 1416,
+      "density_per_4bar": 9.44,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 0
+    }
+  ],
+  "top_abstract_cells": [
+    {
+      "track": "Staff-5",
+      "role": "lead_or_counter",
+      "count": 16,
+      "contour": [
+        "same",
+        "up",
+        "down"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        0,
+        12,
+        -5
+      ],
+      "first_start_beat": 32.0,
+      "span_beats": 1.25,
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-5",
+      "role": "lead_or_counter",
+      "count": 16,
+      "contour": [
+        "up",
+        "down",
+        "step"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "eighth",
+        "quarter"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        12,
+        -5,
+        -1
+      ],
+      "first_start_beat": 32.25,
+      "span_beats": 1.75,
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-13",
+      "role": "lead_or_counter",
+      "count": 8,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "eighth",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "eighth",
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        12,
+        -8,
+        12
+      ],
+      "first_start_beat": 217.75,
+      "span_beats": 1.0,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-13",
+      "role": "lead_or_counter",
+      "count": 8,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "sixteenth",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        12,
+        -9,
+        12
+      ],
+      "first_start_beat": 219.25,
+      "span_beats": 0.5,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff",
+      "role": "lead_or_counter",
+      "count": 64,
+      "contour": [
+        "same",
+        "up",
+        "down"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        0,
+        12,
+        -5
+      ],
+      "first_start_beat": 0.0,
+      "span_beats": 1.25,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff",
+      "role": "lead_or_counter",
+      "count": 64,
+      "contour": [
+        "up",
+        "down",
+        "step"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "eighth",
+        "quarter"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        12,
+        -5,
+        -1
+      ],
+      "first_start_beat": 0.25,
+      "span_beats": 1.75,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-9",
+      "role": "lead_or_counter",
+      "count": 4,
+      "contour": [
+        "same",
+        "same",
+        "same"
+      ],
+      "ioi_shape": [
+        "eighth",
+        "sixteenth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "eighth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        0,
+        0,
+        0
+      ],
+      "first_start_beat": 80.0,
+      "span_beats": 1.5,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-9",
+      "role": "lead_or_counter",
+      "count": 4,
+      "contour": [
+        "down",
+        "step",
+        "step"
+      ],
+      "ioi_shape": [
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "eighth",
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        -5,
+        -2,
+        -2
+      ],
+      "first_start_beat": 88.0,
+      "span_beats": 2.0,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-8",
+      "role": "lead_or_counter",
+      "count": 4,
+      "contour": [
+        "same",
+        "same",
+        "same"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "eighth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "eighth"
+      ],
+      "intervals": [
+        0,
+        0,
+        0
+      ],
+      "first_start_beat": 64.5,
+      "span_beats": 1.75,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-8",
+      "role": "lead_or_counter",
+      "count": 4,
+      "contour": [
+        "same",
+        "same",
+        "down"
+      ],
+      "ioi_shape": [
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth",
+        "sixteenth"
+      ],
+      "intervals": [
+        0,
+        0,
+        -3
+      ],
+      "first_start_beat": 64.75,
+      "span_beats": 1.75,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-7",
+      "role": "lead_or_counter",
+      "count": 10,
+      "contour": [
+        "up",
+        "up",
+        "down"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "very_fast",
+        "long"
+      ],
+      "duration_shape": [
+        "long",
+        "long",
+        "long",
+        "long"
+      ],
+      "intervals": [
+        7,
+        5,
+        -12
+      ],
+      "first_start_beat": 32.0,
+      "span_beats": 8.0,
+      "median_velocity": 75.0
+    },
+    {
+      "track": "Staff-7",
+      "role": "lead_or_counter",
+      "count": 10,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "long",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "long",
+        "long",
+        "long",
+        "long"
+      ],
+      "intervals": [
+        5,
+        -12,
+        7
+      ],
+      "first_start_beat": 32.0,
+      "span_beats": 8.0,
+      "median_velocity": 75.0
+    },
+    {
+      "track": "Staff-10",
+      "role": "lead_or_counter",
+      "count": 52,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "sixteenth",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "very_fast",
+        "very_fast",
+        "very_fast",
+        "very_fast"
+      ],
+      "intervals": [
+        3,
+        -12,
+        8
+      ],
+      "first_start_beat": 98.0,
+      "span_beats": 0.375,
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-10",
+      "role": "lead_or_counter",
+      "count": 36,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "sixteenth",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        12,
+        -12,
+        12
+      ],
+      "first_start_beat": 109.0,
+      "span_beats": 0.5,
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-11",
+      "role": "lead_or_counter",
+      "count": 28,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "sixteenth",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        12,
+        -12,
+        12
+      ],
+      "first_start_beat": 122.0,
+      "span_beats": 0.5,
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-11",
+      "role": "lead_or_counter",
+      "count": 24,
+      "contour": [
+        "down",
+        "up",
+        "down"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "very_fast",
+        "sixteenth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        -12,
+        12,
+        -12
+      ],
+      "first_start_beat": 122.0,
+      "span_beats": 0.75,
+      "median_velocity": 127.0
+    }
+  ],
+  "fast_4note_burst_count_total": 2365,
+  "fast_4note_bursts": [
+    {
+      "track": "Staff-5",
+      "role": "lead_or_counter",
+      "start_beat": 35.25,
+      "span_beats": 1.0,
+      "contour": [
+        "up",
+        "step",
+        "down"
+      ],
+      "intervals": [
+        3,
+        2,
+        -7
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-5",
+      "role": "lead_or_counter",
+      "start_beat": 35.5,
+      "span_beats": 1.0,
+      "contour": [
+        "step",
+        "down",
+        "same"
+      ],
+      "intervals": [
+        2,
+        -7,
+        0
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-5",
+      "role": "lead_or_counter",
+      "start_beat": 35.75,
+      "span_beats": 1.0,
+      "contour": [
+        "down",
+        "same",
+        "up"
+      ],
+      "intervals": [
+        -7,
+        0,
+        12
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-5",
+      "role": "lead_or_counter",
+      "start_beat": 39.25,
+      "span_beats": 1.0,
+      "contour": [
+        "up",
+        "step",
+        "down"
+      ],
+      "intervals": [
+        3,
+        2,
+        -8
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-5",
+      "role": "lead_or_counter",
+      "start_beat": 39.5,
+      "span_beats": 1.0,
+      "contour": [
+        "step",
+        "down",
+        "same"
+      ],
+      "intervals": [
+        2,
+        -8,
+        0
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-13",
+      "role": "lead_or_counter",
+      "start_beat": 219.25,
+      "span_beats": 0.5,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        12,
+        -9,
+        12
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-13",
+      "role": "lead_or_counter",
+      "start_beat": 219.25,
+      "span_beats": 0.75,
+      "contour": [
+        "down",
+        "up",
+        "down"
+      ],
+      "intervals": [
+        -9,
+        12,
+        -10
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-13",
+      "role": "lead_or_counter",
+      "start_beat": 219.5,
+      "span_beats": 0.5,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        12,
+        -10,
+        12
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-13",
+      "role": "lead_or_counter",
+      "start_beat": 223.25,
+      "span_beats": 0.5,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        12,
+        -9,
+        12
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-13",
+      "role": "lead_or_counter",
+      "start_beat": 223.25,
+      "span_beats": 0.75,
+      "contour": [
+        "down",
+        "up",
+        "down"
+      ],
+      "intervals": [
+        -9,
+        12,
+        -10
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff",
+      "role": "lead_or_counter",
+      "start_beat": 3.25,
+      "span_beats": 1.0,
+      "contour": [
+        "up",
+        "step",
+        "down"
+      ],
+      "intervals": [
+        3,
+        2,
+        -7
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff",
+      "role": "lead_or_counter",
+      "start_beat": 3.5,
+      "span_beats": 1.0,
+      "contour": [
+        "step",
+        "down",
+        "same"
+      ],
+      "intervals": [
+        2,
+        -7,
+        0
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff",
+      "role": "lead_or_counter",
+      "start_beat": 3.75,
+      "span_beats": 1.0,
+      "contour": [
+        "down",
+        "same",
+        "up"
+      ],
+      "intervals": [
+        -7,
+        0,
+        12
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff",
+      "role": "lead_or_counter",
+      "start_beat": 7.25,
+      "span_beats": 1.0,
+      "contour": [
+        "up",
+        "step",
+        "down"
+      ],
+      "intervals": [
+        3,
+        2,
+        -8
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff",
+      "role": "lead_or_counter",
+      "start_beat": 7.5,
+      "span_beats": 1.0,
+      "contour": [
+        "step",
+        "down",
+        "same"
+      ],
+      "intervals": [
+        2,
+        -8,
+        0
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-8",
+      "role": "lead_or_counter",
+      "start_beat": 70.25,
+      "span_beats": 1.0,
+      "contour": [
+        "step",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        -2,
+        -3,
+        3
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-8",
+      "role": "lead_or_counter",
+      "start_beat": 70.5,
+      "span_beats": 1.0,
+      "contour": [
+        "down",
+        "up",
+        "step"
+      ],
+      "intervals": [
+        -3,
+        3,
+        2
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-8",
+      "role": "lead_or_counter",
+      "start_beat": 88.0,
+      "span_beats": 0.875,
+      "contour": [
+        "down",
+        "step",
+        "step"
+      ],
+      "intervals": [
+        -3,
+        -2,
+        2
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-8",
+      "role": "lead_or_counter",
+      "start_beat": 88.25,
+      "span_beats": 0.875,
+      "contour": [
+        "step",
+        "step",
+        "up"
+      ],
+      "intervals": [
+        -2,
+        2,
+        3
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-8",
+      "role": "lead_or_counter",
+      "start_beat": 88.5,
+      "span_beats": 0.875,
+      "contour": [
+        "step",
+        "up",
+        "down"
+      ],
+      "intervals": [
+        2,
+        3,
+        -3
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Staff-7",
+      "role": "lead_or_counter",
+      "start_beat": 31.5,
+      "span_beats": 0.5,
+      "contour": [
+        "step",
+        "step",
+        "up"
+      ],
+      "intervals": [
+        2,
+        1,
+        4
+      ],
+      "median_velocity": 75.0
+    },
+    {
+      "track": "Staff-7",
+      "role": "lead_or_counter",
+      "start_beat": 343.5,
+      "span_beats": 0.5,
+      "contour": [
+        "step",
+        "step",
+        "up"
+      ],
+      "intervals": [
+        2,
+        1,
+        4
+      ],
+      "median_velocity": 75.0
+    },
+    {
+      "track": "Staff-10",
+      "role": "lead_or_counter",
+      "start_beat": 98.0,
+      "span_beats": 0.375,
+      "contour": [
+        "up",
+        "up",
+        "down"
+      ],
+      "intervals": [
+        9,
+        3,
+        -12
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-10",
+      "role": "lead_or_counter",
+      "start_beat": 98.0,
+      "span_beats": 0.375,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        3,
+        -12,
+        8
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-10",
+      "role": "lead_or_counter",
+      "start_beat": 98.0,
+      "span_beats": 0.375,
+      "contour": [
+        "down",
+        "up",
+        "up"
+      ],
+      "intervals": [
+        -12,
+        8,
+        4
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-10",
+      "role": "lead_or_counter",
+      "start_beat": 98.25,
+      "span_beats": 0.375,
+      "contour": [
+        "up",
+        "up",
+        "down"
+      ],
+      "intervals": [
+        8,
+        4,
+        -9
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-10",
+      "role": "lead_or_counter",
+      "start_beat": 98.25,
+      "span_beats": 0.375,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        4,
+        -9,
+        9
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-11",
+      "role": "lead_or_counter",
+      "start_beat": 122.0,
+      "span_beats": 0.5,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        12,
+        -12,
+        12
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-11",
+      "role": "lead_or_counter",
+      "start_beat": 122.0,
+      "span_beats": 0.75,
+      "contour": [
+        "down",
+        "up",
+        "down"
+      ],
+      "intervals": [
+        -12,
+        12,
+        -12
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-11",
+      "role": "lead_or_counter",
+      "start_beat": 122.25,
+      "span_beats": 0.5,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        12,
+        -12,
+        12
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-11",
+      "role": "lead_or_counter",
+      "start_beat": 122.25,
+      "span_beats": 0.75,
+      "contour": [
+        "down",
+        "up",
+        "down"
+      ],
+      "intervals": [
+        -12,
+        12,
+        -12
+      ],
+      "median_velocity": 127.0
+    },
+    {
+      "track": "Staff-11",
+      "role": "lead_or_counter",
+      "start_beat": 122.5,
+      "span_beats": 0.5,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        12,
+        -12,
+        12
+      ],
+      "median_velocity": 127.0
+    }
+  ],
+  "drums": {
+    "note_count": 2520,
+    "counts": {
+      "kick": 888,
+      "snare_clap": 528,
+      "closed_hat": 0,
+      "open_hat": 1024,
+      "cymbal": 80
+    },
+    "common_bar_positions": {
+      "kick": [
+        [
+          0.0,
+          124
+        ],
+        [
+          1.25,
+          124
+        ],
+        [
+          3.25,
+          110
+        ],
+        [
+          2.25,
+          98
+        ],
+        [
+          1.0,
+          96
+        ],
+        [
+          3.0,
+          94
+        ]
+      ],
+      "snare_clap": [
+        [
+          3.5,
+          128
+        ],
+        [
+          2.5,
+          98
+        ],
+        [
+          0.5,
+          96
+        ],
+        [
+          1.5,
+          96
+        ],
+        [
+          1.0,
+          28
+        ],
+        [
+          2.25,
+          28
+        ]
+      ],
+      "closed_hat": [],
+      "open_hat": [
+        [
+          0.5,
+          124
+        ],
+        [
+          1.0,
+          124
+        ],
+        [
+          1.5,
+          124
+        ],
+        [
+          2.0,
+          108
+        ],
+        [
+          2.5,
+          108
+        ],
+        [
+          3.0,
+          108
+        ]
+      ],
+      "cymbal": [
+        [
+          0.0,
+          32
+        ],
+        [
+          2.0,
+          16
+        ],
+        [
+          2.75,
+          16
+        ],
+        [
+          3.5,
+          16
+        ]
+      ]
+    }
+  },
+  "section_density_4bar_blocks": [
+    {
+      "block": 1,
+      "beats": [
+        0.0,
+        16.0
+      ],
+      "notes": 40,
+      "tonal_notes": 40,
+      "drum_notes": 0,
+      "active_tracks": 1,
+      "median_tonal_pitch": 54.0
+    },
+    {
+      "block": 2,
+      "beats": [
+        16.0,
+        32.0
+      ],
+      "notes": 82,
+      "tonal_notes": 80,
+      "drum_notes": 2,
+      "active_tracks": 4,
+      "median_tonal_pitch": 47.5
+    },
+    {
+      "block": 3,
+      "beats": [
+        32.0,
+        48.0
+      ],
+      "notes": 340,
+      "tonal_notes": 263,
+      "drum_notes": 77,
+      "active_tracks": 8,
+      "median_tonal_pitch": 47.0
+    },
+    {
+      "block": 4,
+      "beats": [
+        48.0,
+        64.0
+      ],
+      "notes": 341,
+      "tonal_notes": 264,
+      "drum_notes": 77,
+      "active_tracks": 9,
+      "median_tonal_pitch": 47.0
+    },
+    {
+      "block": 5,
+      "beats": [
+        64.0,
+        80.0
+      ],
+      "notes": 276,
+      "tonal_notes": 199,
+      "drum_notes": 77,
+      "active_tracks": 7,
+      "median_tonal_pitch": 43.0
+    },
+    {
+      "block": 6,
+      "beats": [
+        80.0,
+        96.0
+      ],
+      "notes": 311,
+      "tonal_notes": 234,
+      "drum_notes": 77,
+      "active_tracks": 7,
+      "median_tonal_pitch": 45.0
+    },
+    {
+      "block": 7,
+      "beats": [
+        96.0,
+        112.0
+      ],
+      "notes": 325,
+      "tonal_notes": 248,
+      "drum_notes": 77,
+      "active_tracks": 6,
+      "median_tonal_pitch": 46.0
+    },
+    {
+      "block": 8,
+      "beats": [
+        112.0,
+        128.0
+      ],
+      "notes": 325,
+      "tonal_notes": 248,
+      "drum_notes": 77,
+      "active_tracks": 7,
+      "median_tonal_pitch": 46.0
+    },
+    {
+      "block": 9,
+      "beats": [
+        128.0,
+        144.0
+      ],
+      "notes": 325,
+      "tonal_notes": 248,
+      "drum_notes": 77,
+      "active_tracks": 6,
+      "median_tonal_pitch": 46.0
+    },
+    {
+      "block": 10,
+      "beats": [
+        144.0,
+        160.0
+      ],
+      "notes": 325,
+      "tonal_notes": 248,
+      "drum_notes": 77,
+      "active_tracks": 7,
+      "median_tonal_pitch": 46.0
+    },
+    {
+      "block": 11,
+      "beats": [
+        160.0,
+        176.0
+      ],
+      "notes": 121,
+      "tonal_notes": 45,
+      "drum_notes": 76,
+      "active_tracks": 5,
+      "median_tonal_pitch": 35.0
+    },
+    {
+      "block": 12,
+      "beats": [
+        176.0,
+        192.0
+      ],
+      "notes": 121,
+      "tonal_notes": 45,
+      "drum_notes": 76,
+      "active_tracks": 5,
+      "median_tonal_pitch": 38.0
+    },
+    {
+      "block": 13,
+      "beats": [
+        192.0,
+        208.0
+      ],
+      "notes": 161,
+      "tonal_notes": 85,
+      "drum_notes": 76,
+      "active_tracks": 6,
+      "median_tonal_pitch": 47.0
+    },
+    {
+      "block": 14,
+      "beats": [
+        208.0,
+        224.0
+      ],
+      "notes": 163,
+      "tonal_notes": 117,
+      "drum_notes": 46,
+      "active_tracks": 7,
+      "median_tonal_pitch": 53.0
+    },
+    {
+      "block": 15,
+      "beats": [
+        224.0,
+        240.0
+      ],
+      "notes": 264,
+      "tonal_notes": 172,
+      "drum_notes": 92,
+      "active_tracks": 5,
+      "median_tonal_pitch": 41.0
+    },
+    {
+      "block": 16,
+      "beats": [
+        240.0,
+        256.0
+      ],
+      "notes": 264,
+      "tonal_notes": 172,
+      "drum_notes": 92,
+      "active_tracks": 5,
+      "median_tonal_pitch": 41.0
+    },
+    {
+      "block": 17,
+      "beats": [
+        256.0,
+        272.0
+      ],
+      "notes": 264,
+      "tonal_notes": 172,
+      "drum_notes": 92,
+      "active_tracks": 5,
+      "median_tonal_pitch": 41.0
+    },
+    {
+      "block": 18,
+      "beats": [
+        272.0,
+        288.0
+      ],
+      "notes": 284,
+      "tonal_notes": 192,
+      "drum_notes": 92,
+      "active_tracks": 6,
+      "median_tonal_pitch": 43.0
+    },
+    {
+      "block": 19,
+      "beats": [
+        288.0,
+        304.0
+      ],
+      "notes": 40,
+      "tonal_notes": 40,
+      "drum_notes": 0,
+      "active_tracks": 1,
+      "median_tonal_pitch": 54.0
+    },
+    {
+      "block": 20,
+      "beats": [
+        304.0,
+        320.0
+      ],
+      "notes": 40,
+      "tonal_notes": 40,
+      "drum_notes": 0,
+      "active_tracks": 1,
+      "median_tonal_pitch": 54.0
+    },
+    {
+      "block": 21,
+      "beats": [
+        320.0,
+        336.0
+      ],
+      "notes": 58,
+      "tonal_notes": 58,
+      "drum_notes": 0,
+      "active_tracks": 2,
+      "median_tonal_pitch": 50.0
+    },
+    {
+      "block": 22,
+      "beats": [
+        336.0,
+        352.0
+      ],
+      "notes": 212,
+      "tonal_notes": 172,
+      "drum_notes": 40,
+      "active_tracks": 8,
+      "median_tonal_pitch": 48.0
+    },
+    {
+      "block": 23,
+      "beats": [
+        352.0,
+        368.0
+      ],
+      "notes": 340,
+      "tonal_notes": 263,
+      "drum_notes": 77,
+      "active_tracks": 8,
+      "median_tonal_pitch": 47.0
+    },
+    {
+      "block": 24,
+      "beats": [
+        368.0,
+        384.0
+      ],
+      "notes": 311,
+      "tonal_notes": 234,
+      "drum_notes": 77,
+      "active_tracks": 9,
+      "median_tonal_pitch": 45.0
+    },
+    {
+      "block": 25,
+      "beats": [
+        384.0,
+        400.0
+      ],
+      "notes": 292,
+      "tonal_notes": 215,
+      "drum_notes": 77,
+      "active_tracks": 7,
+      "median_tonal_pitch": 43.0
+    },
+    {
+      "block": 26,
+      "beats": [
+        400.0,
+        416.0
+      ],
+      "notes": 325,
+      "tonal_notes": 248,
+      "drum_notes": 77,
+      "active_tracks": 8,
+      "median_tonal_pitch": 46.0
+    },
+    {
+      "block": 27,
+      "beats": [
+        416.0,
+        432.0
+      ],
+      "notes": 319,
+      "tonal_notes": 242,
+      "drum_notes": 77,
+      "active_tracks": 7,
+      "median_tonal_pitch": 46.0
+    },
+    {
+      "block": 28,
+      "beats": [
+        432.0,
+        448.0
+      ],
+      "notes": 331,
+      "tonal_notes": 254,
+      "drum_notes": 77,
+      "active_tracks": 7,
+      "median_tonal_pitch": 46.0
+    },
+    {
+      "block": 29,
+      "beats": [
+        448.0,
+        464.0
+      ],
+      "notes": 319,
+      "tonal_notes": 242,
+      "drum_notes": 77,
+      "active_tracks": 7,
+      "median_tonal_pitch": 46.0
+    },
+    {
+      "block": 30,
+      "beats": [
+        464.0,
+        480.0
+      ],
+      "notes": 225,
+      "tonal_notes": 148,
+      "drum_notes": 77,
+      "active_tracks": 8,
+      "median_tonal_pitch": 45.5
+    },
+    {
+      "block": 31,
+      "beats": [
+        480.0,
+        496.0
+      ],
+      "notes": 121,
+      "tonal_notes": 45,
+      "drum_notes": 76,
+      "active_tracks": 5,
+      "median_tonal_pitch": 35.0
+    },
+    {
+      "block": 32,
+      "beats": [
+        496.0,
+        512.0
+      ],
+      "notes": 141,
+      "tonal_notes": 65,
+      "drum_notes": 76,
+      "active_tracks": 6,
+      "median_tonal_pitch": 38.0
+    },
+    {
+      "block": 33,
+      "beats": [
+        512.0,
+        528.0
+      ],
+      "notes": 161,
+      "tonal_notes": 85,
+      "drum_notes": 76,
+      "active_tracks": 6,
+      "median_tonal_pitch": 46.0
+    },
+    {
+      "block": 34,
+      "beats": [
+        528.0,
+        544.0
+      ],
+      "notes": 213,
+      "tonal_notes": 159,
+      "drum_notes": 54,
+      "active_tracks": 8,
+      "median_tonal_pitch": 43.0
+    },
+    {
+      "block": 35,
+      "beats": [
+        544.0,
+        560.0
+      ],
+      "notes": 264,
+      "tonal_notes": 172,
+      "drum_notes": 92,
+      "active_tracks": 5,
+      "median_tonal_pitch": 41.0
+    },
+    {
+      "block": 36,
+      "beats": [
+        560.0,
+        576.0
+      ],
+      "notes": 264,
+      "tonal_notes": 172,
+      "drum_notes": 92,
+      "active_tracks": 5,
+      "median_tonal_pitch": 41.0
+    },
+    {
+      "block": 37,
+      "beats": [
+        576.0,
+        592.0
+      ],
+      "notes": 264,
+      "tonal_notes": 172,
+      "drum_notes": 92,
+      "active_tracks": 5,
+      "median_tonal_pitch": 41.0
+    },
+    {
+      "block": 38,
+      "beats": [
+        592.0,
+        608.0
+      ],
+      "notes": 172,
+      "tonal_notes": 126,
+      "drum_notes": 46,
+      "active_tracks": 6,
+      "median_tonal_pitch": 45.0
+    },
+    {
+      "block": 39,
+      "beats": [
+        608.0,
+        624.0
+      ],
+      "notes": 40,
+      "tonal_notes": 40,
+      "drum_notes": 0,
+      "active_tracks": 1,
+      "median_tonal_pitch": 54.0
+    }
+  ]
+}

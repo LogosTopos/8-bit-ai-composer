@@ -1,0 +1,1115 @@
+{
+  "source": {
+    "slug": "mighty_switch_force_level_select",
+    "game": "Mighty Switch Force!",
+    "title": "Level Select",
+    "sequencer": "Monster Iestyn",
+    "year_context": 2011,
+    "info_url": "https://www.vgmusic.com/file/e4b0ae3ac828a60a3982f5c82ca4791d.html",
+    "midi_url": "https://www.vgmusic.com/new-files/Mighty_Switch_Force_-_Level_Select.mid"
+  },
+  "downloaded_midi": "examples/community_midi_analysis_v1/midi/mighty_switch_force_level_select.mid",
+  "midi_type": 1,
+  "ticks_per_beat": 120,
+  "track_count": 17,
+  "note_count": 3932,
+  "duration_beats": 264.0,
+  "duration_seconds": 132.0,
+  "tempo_bpm_common": [
+    [
+      120.0,
+      1
+    ]
+  ],
+  "estimated_key": "A major",
+  "role_counts": {
+    "empty_or_meta": 8,
+    "lead_or_counter": 6,
+    "bass": 1,
+    "harmony_or_arp": 1,
+    "drums": 1
+  },
+  "track_summaries": [
+    {
+      "track": 0,
+      "name": "Track 0",
+      "role": "empty_or_meta",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 1,
+      "name": "Synth Brass 2 (Left)",
+      "role": "lead_or_counter",
+      "note_count": 259,
+      "density_per_4bar": 3.93,
+      "pitch_range": [
+        57,
+        69
+      ],
+      "median_velocity": 100.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 2,
+      "name": "Synth Brass 2 (Right)",
+      "role": "lead_or_counter",
+      "note_count": 259,
+      "density_per_4bar": 3.93,
+      "pitch_range": [
+        57,
+        69
+      ],
+      "median_velocity": 100.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 3,
+      "name": "GM2 - Synth Bass 4",
+      "role": "bass",
+      "note_count": 556,
+      "density_per_4bar": 8.43,
+      "pitch_range": [
+        23,
+        61
+      ],
+      "median_velocity": 100.0,
+      "fast_4note_burst_count": 60
+    },
+    {
+      "track": 4,
+      "name": "Orchestral Hit",
+      "role": "lead_or_counter",
+      "note_count": 4,
+      "density_per_4bar": 2.29,
+      "pitch_range": [
+        69,
+        81
+      ],
+      "median_velocity": 100.0,
+      "fast_4note_burst_count": 1
+    },
+    {
+      "track": 5,
+      "name": "GM2 - Doctor Solo",
+      "role": "harmony_or_arp",
+      "note_count": 832,
+      "density_per_4bar": 12.61,
+      "pitch_range": [
+        62,
+        97
+      ],
+      "median_velocity": 100.0,
+      "fast_4note_burst_count": 272
+    },
+    {
+      "track": 6,
+      "name": "Solo Vox",
+      "role": "lead_or_counter",
+      "note_count": 28,
+      "density_per_4bar": 0.52,
+      "pitch_range": [
+        62,
+        66
+      ],
+      "median_velocity": 100.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 7,
+      "name": "Synth Strings 1",
+      "role": "lead_or_counter",
+      "note_count": 293,
+      "density_per_4bar": 4.45,
+      "pitch_range": [
+        53,
+        81
+      ],
+      "median_velocity": 100.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 8,
+      "name": "GM2 - Synth Strings 3",
+      "role": "lead_or_counter",
+      "note_count": 3,
+      "density_per_4bar": 1.6,
+      "pitch_range": [
+        59,
+        67
+      ],
+      "median_velocity": 100.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 9,
+      "name": "Track 9",
+      "role": "empty_or_meta",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 10,
+      "name": "TR-808",
+      "role": "drums",
+      "note_count": 1698,
+      "density_per_4bar": 25.73,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": 100.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 11,
+      "name": "Track 11",
+      "role": "empty_or_meta",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 12,
+      "name": "Track 12",
+      "role": "empty_or_meta",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 13,
+      "name": "Track 13",
+      "role": "empty_or_meta",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 14,
+      "name": "Track 14",
+      "role": "empty_or_meta",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 15,
+      "name": "Track 15",
+      "role": "empty_or_meta",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 16,
+      "name": "Track 16",
+      "role": "empty_or_meta",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    }
+  ],
+  "top_abstract_cells": [
+    {
+      "track": "Synth Brass 2 (Left)",
+      "role": "lead_or_counter",
+      "count": 32,
+      "contour": [
+        "down",
+        "up",
+        "up"
+      ],
+      "ioi_shape": [
+        "long",
+        "very_fast",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "long",
+        "long",
+        "long",
+        "long"
+      ],
+      "intervals": [
+        -7,
+        3,
+        4
+      ],
+      "first_start_beat": 8.0,
+      "span_beats": 8.0,
+      "median_velocity": 100.0
+    },
+    {
+      "track": "Synth Brass 2 (Left)",
+      "role": "lead_or_counter",
+      "count": 24,
+      "contour": [
+        "up",
+        "up",
+        "down"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "very_fast",
+        "long"
+      ],
+      "duration_shape": [
+        "long",
+        "long",
+        "long",
+        "long"
+      ],
+      "intervals": [
+        3,
+        4,
+        -5
+      ],
+      "first_start_beat": 12.0,
+      "span_beats": 8.0,
+      "median_velocity": 100.0
+    },
+    {
+      "track": "Synth Brass 2 (Right)",
+      "role": "lead_or_counter",
+      "count": 32,
+      "contour": [
+        "down",
+        "up",
+        "up"
+      ],
+      "ioi_shape": [
+        "long",
+        "very_fast",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "long",
+        "long",
+        "long",
+        "long"
+      ],
+      "intervals": [
+        -7,
+        3,
+        4
+      ],
+      "first_start_beat": 8.0,
+      "span_beats": 8.0,
+      "median_velocity": 100.0
+    },
+    {
+      "track": "Synth Brass 2 (Right)",
+      "role": "lead_or_counter",
+      "count": 24,
+      "contour": [
+        "up",
+        "up",
+        "down"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "very_fast",
+        "long"
+      ],
+      "duration_shape": [
+        "long",
+        "long",
+        "long",
+        "long"
+      ],
+      "intervals": [
+        3,
+        4,
+        -5
+      ],
+      "first_start_beat": 12.0,
+      "span_beats": 8.0,
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Synth Bass 4",
+      "role": "bass",
+      "count": 20,
+      "contour": [
+        "step",
+        "up",
+        "same"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        2,
+        3,
+        0
+      ],
+      "first_start_beat": 9.25,
+      "span_beats": 1.25,
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Synth Bass 4",
+      "role": "bass",
+      "count": 16,
+      "contour": [
+        "up",
+        "down",
+        "step"
+      ],
+      "ioi_shape": [
+        "quarter",
+        "eighth",
+        "sixteenth"
+      ],
+      "duration_shape": [
+        "quarter",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        12,
+        -5,
+        2
+      ],
+      "first_start_beat": 8.0,
+      "span_beats": 1.683,
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Doctor Solo",
+      "role": "harmony_or_arp",
+      "count": 104,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "sixteenth",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        12,
+        -12,
+        12
+      ],
+      "first_start_beat": 9.25,
+      "span_beats": 0.475,
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Doctor Solo",
+      "role": "harmony_or_arp",
+      "count": 64,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "eighth",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        12,
+        -12,
+        12
+      ],
+      "first_start_beat": 11.5,
+      "span_beats": 1.0,
+      "median_velocity": 100.0
+    },
+    {
+      "track": "Solo Vox",
+      "role": "lead_or_counter",
+      "count": 4,
+      "contour": [
+        "step",
+        "step",
+        "same"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "sixteenth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        2,
+        2,
+        0
+      ],
+      "first_start_beat": 21.25,
+      "span_beats": 1.25,
+      "median_velocity": 100.0
+    },
+    {
+      "track": "Solo Vox",
+      "role": "lead_or_counter",
+      "count": 4,
+      "contour": [
+        "step",
+        "same",
+        "step"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "eighth",
+        "sixteenth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        2,
+        0,
+        -2
+      ],
+      "first_start_beat": 21.5,
+      "span_beats": 1.25,
+      "median_velocity": 100.0
+    },
+    {
+      "track": "Synth Strings 1",
+      "role": "lead_or_counter",
+      "count": 32,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "ioi_shape": [
+        "very_fast",
+        "long",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "long",
+        "long",
+        "long",
+        "long"
+      ],
+      "intervals": [
+        3,
+        -10,
+        3
+      ],
+      "first_start_beat": 8.0,
+      "span_beats": 8.0,
+      "median_velocity": 100.0
+    },
+    {
+      "track": "Synth Strings 1",
+      "role": "lead_or_counter",
+      "count": 32,
+      "contour": [
+        "down",
+        "up",
+        "up"
+      ],
+      "ioi_shape": [
+        "long",
+        "very_fast",
+        "very_fast"
+      ],
+      "duration_shape": [
+        "long",
+        "long",
+        "long",
+        "long"
+      ],
+      "intervals": [
+        -10,
+        3,
+        4
+      ],
+      "first_start_beat": 8.0,
+      "span_beats": 8.0,
+      "median_velocity": 100.0
+    }
+  ],
+  "fast_4note_burst_count_total": 333,
+  "fast_4note_bursts": [
+    {
+      "track": "GM2 - Synth Bass 4",
+      "role": "bass",
+      "start_beat": 14.75,
+      "span_beats": 0.933,
+      "contour": [
+        "step",
+        "step",
+        "down"
+      ],
+      "intervals": [
+        2,
+        -2,
+        -3
+      ],
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Synth Bass 4",
+      "role": "bass",
+      "start_beat": 15.0,
+      "span_beats": 1.0,
+      "contour": [
+        "step",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        -2,
+        -3,
+        3
+      ],
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Synth Bass 4",
+      "role": "bass",
+      "start_beat": 22.75,
+      "span_beats": 0.933,
+      "contour": [
+        "step",
+        "step",
+        "down"
+      ],
+      "intervals": [
+        2,
+        -2,
+        -3
+      ],
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Synth Bass 4",
+      "role": "bass",
+      "start_beat": 23.0,
+      "span_beats": 0.933,
+      "contour": [
+        "step",
+        "down",
+        "down"
+      ],
+      "intervals": [
+        -2,
+        -3,
+        -4
+      ],
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Synth Bass 4",
+      "role": "bass",
+      "start_beat": 37.0,
+      "span_beats": 1.0,
+      "contour": [
+        "step",
+        "step",
+        "down"
+      ],
+      "intervals": [
+        2,
+        -2,
+        -5
+      ],
+      "median_velocity": 100.0
+    },
+    {
+      "track": "Orchestral Hit",
+      "role": "lead_or_counter",
+      "start_beat": 6.0,
+      "span_beats": 1.0,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        12,
+        -12,
+        12
+      ],
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Doctor Solo",
+      "role": "harmony_or_arp",
+      "start_beat": 8.5,
+      "span_beats": 0.4,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        12,
+        -10,
+        12
+      ],
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Doctor Solo",
+      "role": "harmony_or_arp",
+      "start_beat": 8.5,
+      "span_beats": 0.675,
+      "contour": [
+        "down",
+        "up",
+        "down"
+      ],
+      "intervals": [
+        -10,
+        12,
+        -12
+      ],
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Doctor Solo",
+      "role": "harmony_or_arp",
+      "start_beat": 8.75,
+      "span_beats": 0.425,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        12,
+        -12,
+        12
+      ],
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Doctor Solo",
+      "role": "harmony_or_arp",
+      "start_beat": 8.75,
+      "span_beats": 0.7,
+      "contour": [
+        "down",
+        "up",
+        "down"
+      ],
+      "intervals": [
+        -12,
+        12,
+        -10
+      ],
+      "median_velocity": 100.0
+    },
+    {
+      "track": "GM2 - Doctor Solo",
+      "role": "harmony_or_arp",
+      "start_beat": 9.0,
+      "span_beats": 0.45,
+      "contour": [
+        "up",
+        "down",
+        "up"
+      ],
+      "intervals": [
+        12,
+        -10,
+        12
+      ],
+      "median_velocity": 100.0
+    }
+  ],
+  "drums": {
+    "note_count": 1698,
+    "counts": {
+      "kick": 285,
+      "snare_clap": 169,
+      "closed_hat": 884,
+      "open_hat": 52,
+      "cymbal": 5
+    },
+    "common_bar_positions": {
+      "kick": [
+        [
+          0.0,
+          60
+        ],
+        [
+          1.5,
+          60
+        ],
+        [
+          2.5,
+          52
+        ],
+        [
+          3.25,
+          48
+        ],
+        [
+          0.75,
+          48
+        ],
+        [
+          0.5,
+          8
+        ]
+      ],
+      "snare_clap": [
+        [
+          3.0,
+          64
+        ],
+        [
+          1.0,
+          60
+        ],
+        [
+          2.0,
+          9
+        ],
+        [
+          2.5,
+          8
+        ],
+        [
+          3.25,
+          8
+        ],
+        [
+          3.5,
+          8
+        ]
+      ],
+      "closed_hat": [
+        [
+          3.0,
+          64
+        ],
+        [
+          0.0,
+          60
+        ],
+        [
+          0.25,
+          60
+        ],
+        [
+          0.5,
+          60
+        ],
+        [
+          1.0,
+          60
+        ],
+        [
+          1.5,
+          60
+        ]
+      ],
+      "open_hat": [
+        [
+          2.75,
+          36
+        ],
+        [
+          0.75,
+          8
+        ],
+        [
+          1.25,
+          8
+        ]
+      ],
+      "cymbal": [
+        [
+          0.0,
+          4
+        ],
+        [
+          3.0,
+          1
+        ]
+      ]
+    }
+  },
+  "section_density_4bar_blocks": [
+    {
+      "block": 1,
+      "beats": [
+        0.0,
+        16.0
+      ],
+      "notes": 150,
+      "tonal_notes": 87,
+      "drum_notes": 63,
+      "active_tracks": 8,
+      "median_tonal_pitch": 66.0
+    },
+    {
+      "block": 2,
+      "beats": [
+        16.0,
+        32.0
+      ],
+      "notes": 259,
+      "tonal_notes": 147,
+      "drum_notes": 112,
+      "active_tracks": 7,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 3,
+      "beats": [
+        32.0,
+        48.0
+      ],
+      "notes": 229,
+      "tonal_notes": 139,
+      "drum_notes": 90,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 4,
+      "beats": [
+        48.0,
+        64.0
+      ],
+      "notes": 240,
+      "tonal_notes": 128,
+      "drum_notes": 112,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 5,
+      "beats": [
+        64.0,
+        80.0
+      ],
+      "notes": 248,
+      "tonal_notes": 140,
+      "drum_notes": 108,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 6,
+      "beats": [
+        80.0,
+        96.0
+      ],
+      "notes": 259,
+      "tonal_notes": 147,
+      "drum_notes": 112,
+      "active_tracks": 7,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 7,
+      "beats": [
+        96.0,
+        112.0
+      ],
+      "notes": 229,
+      "tonal_notes": 139,
+      "drum_notes": 90,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 8,
+      "beats": [
+        112.0,
+        128.0
+      ],
+      "notes": 240,
+      "tonal_notes": 128,
+      "drum_notes": 112,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 9,
+      "beats": [
+        128.0,
+        144.0
+      ],
+      "notes": 248,
+      "tonal_notes": 140,
+      "drum_notes": 108,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 10,
+      "beats": [
+        144.0,
+        160.0
+      ],
+      "notes": 259,
+      "tonal_notes": 147,
+      "drum_notes": 112,
+      "active_tracks": 7,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 11,
+      "beats": [
+        160.0,
+        176.0
+      ],
+      "notes": 229,
+      "tonal_notes": 139,
+      "drum_notes": 90,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 12,
+      "beats": [
+        176.0,
+        192.0
+      ],
+      "notes": 240,
+      "tonal_notes": 128,
+      "drum_notes": 112,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 13,
+      "beats": [
+        192.0,
+        208.0
+      ],
+      "notes": 248,
+      "tonal_notes": 140,
+      "drum_notes": 108,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 14,
+      "beats": [
+        208.0,
+        224.0
+      ],
+      "notes": 259,
+      "tonal_notes": 147,
+      "drum_notes": 112,
+      "active_tracks": 7,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 15,
+      "beats": [
+        224.0,
+        240.0
+      ],
+      "notes": 229,
+      "tonal_notes": 139,
+      "drum_notes": 90,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 16,
+      "beats": [
+        240.0,
+        256.0
+      ],
+      "notes": 240,
+      "tonal_notes": 128,
+      "drum_notes": 112,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 17,
+      "beats": [
+        256.0,
+        272.0
+      ],
+      "notes": 126,
+      "tonal_notes": 71,
+      "drum_notes": 55,
+      "active_tracks": 6,
+      "median_tonal_pitch": 64.0
+    }
+  ]
+}

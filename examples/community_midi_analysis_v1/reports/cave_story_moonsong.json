@@ -1,0 +1,967 @@
+{
+  "source": {
+    "slug": "cave_story_moonsong",
+    "game": "Cave Story",
+    "title": "Moonsong",
+    "sequencer": "Vaporeon",
+    "year_context": 2004,
+    "info_url": "https://www.vgmusic.com/file/eab25b9ef5f1e69ad922b5cbd393c911.html",
+    "midi_url": "https://www.vgmusic.com/new-files/cs_oside.mid"
+  },
+  "downloaded_midi": "examples/community_midi_analysis_v1/midi/cave_story_moonsong.mid",
+  "midi_type": 1,
+  "ticks_per_beat": 192,
+  "track_count": 13,
+  "note_count": 3584,
+  "duration_beats": 287.99,
+  "duration_seconds": 143.995,
+  "tempo_bpm_common": [
+    [
+      125.0,
+      1
+    ]
+  ],
+  "estimated_key": "Bb major",
+  "role_counts": {
+    "empty_or_meta": 2,
+    "lead_or_counter": 5,
+    "harmony_or_arp": 1,
+    "drums": 5
+  },
+  "track_summaries": [
+    {
+      "track": 0,
+      "name": "Cave Story - Moonsong",
+      "role": "empty_or_meta",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 1,
+      "name": "Tempo",
+      "role": "empty_or_meta",
+      "note_count": 0,
+      "density_per_4bar": 0.0,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": null,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 2,
+      "name": "Lead 1 (square)",
+      "role": "lead_or_counter",
+      "note_count": 36,
+      "density_per_4bar": 0.5,
+      "pitch_range": [
+        56,
+        60
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 3,
+      "name": "Lead 1 (square)-2",
+      "role": "lead_or_counter",
+      "note_count": 229,
+      "density_per_4bar": 3.18,
+      "pitch_range": [
+        67,
+        87
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 4,
+      "name": "Lead 1 (square)-3",
+      "role": "lead_or_counter",
+      "note_count": 174,
+      "density_per_4bar": 2.42,
+      "pitch_range": [
+        60,
+        70
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 5,
+      "name": "Clavinet",
+      "role": "harmony_or_arp",
+      "note_count": 512,
+      "density_per_4bar": 7.11,
+      "pitch_range": [
+        32,
+        38
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 6,
+      "name": "Lead 1 (square)-4",
+      "role": "lead_or_counter",
+      "note_count": 842,
+      "density_per_4bar": 11.7,
+      "pitch_range": [
+        58,
+        84
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 576
+    },
+    {
+      "track": 7,
+      "name": "Lead 2 (sawtooth)",
+      "role": "lead_or_counter",
+      "note_count": 512,
+      "density_per_4bar": 7.11,
+      "pitch_range": [
+        44,
+        50
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 8,
+      "name": "Percussion",
+      "role": "drums",
+      "note_count": 432,
+      "density_per_4bar": 6.01,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": 83.5,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 9,
+      "name": "Percussion-2",
+      "role": "drums",
+      "note_count": 162,
+      "density_per_4bar": 2.26,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": 75.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 10,
+      "name": "Percussion-3",
+      "role": "drums",
+      "note_count": 443,
+      "density_per_4bar": 6.16,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": 92.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 11,
+      "name": "Percussion-4",
+      "role": "drums",
+      "note_count": 164,
+      "density_per_4bar": 2.28,
+      "pitch_range": [
+        null,
+        null
+      ],
+      "median_velocity": 108.0,
+      "fast_4note_burst_count": 0
+    },
+    {
+      "track": 12,
+      "name": "Synth Drum",
+      "role": "drums",
+      "note_count": 78,
+      "density_per_4bar": 1.09,
+      "pitch_range": [
+        59,
+        76
+      ],
+      "median_velocity": 110.0,
+      "fast_4note_burst_count": 0
+    }
+  ],
+  "top_abstract_cells": [
+    {
+      "track": "Lead 1 (square)-2",
+      "role": "lead_or_counter",
+      "count": 10,
+      "contour": [
+        "up",
+        "step",
+        "step"
+      ],
+      "ioi_shape": [
+        "quarter",
+        "eighth",
+        "quarter"
+      ],
+      "duration_shape": [
+        "quarter",
+        "eighth",
+        "quarter",
+        "quarter"
+      ],
+      "intervals": [
+        3,
+        2,
+        2
+      ],
+      "first_start_beat": 0.0,
+      "span_beats": 3.49,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Lead 1 (square)-2",
+      "role": "lead_or_counter",
+      "count": 10,
+      "contour": [
+        "step",
+        "step",
+        "down"
+      ],
+      "ioi_shape": [
+        "eighth",
+        "quarter",
+        "quarter"
+      ],
+      "duration_shape": [
+        "eighth",
+        "quarter",
+        "quarter",
+        "long"
+      ],
+      "intervals": [
+        2,
+        2,
+        -4
+      ],
+      "first_start_beat": 1.0,
+      "span_beats": 6.833,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Lead 1 (square)-3",
+      "role": "lead_or_counter",
+      "count": 6,
+      "contour": [
+        "same",
+        "step",
+        "same"
+      ],
+      "ioi_shape": [
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "eighth",
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        0,
+        1,
+        0
+      ],
+      "first_start_beat": 156.0,
+      "span_beats": 1.99,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Lead 1 (square)-3",
+      "role": "lead_or_counter",
+      "count": 4,
+      "contour": [
+        "step",
+        "same",
+        "step"
+      ],
+      "ioi_shape": [
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "eighth",
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        1,
+        0,
+        -1
+      ],
+      "first_start_beat": 156.5,
+      "span_beats": 1.99,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Clavinet",
+      "role": "harmony_or_arp",
+      "count": 392,
+      "contour": [
+        "same",
+        "same",
+        "same"
+      ],
+      "ioi_shape": [
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "eighth",
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        0,
+        0,
+        0
+      ],
+      "first_start_beat": 32.0,
+      "span_beats": 1.99,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Clavinet",
+      "role": "harmony_or_arp",
+      "count": 23,
+      "contour": [
+        "same",
+        "step",
+        "same"
+      ],
+      "ioi_shape": [
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "eighth",
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        0,
+        -2,
+        0
+      ],
+      "first_start_beat": 39.0,
+      "span_beats": 1.99,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Lead 1 (square)-4",
+      "role": "lead_or_counter",
+      "count": 142,
+      "contour": [
+        "down",
+        "same",
+        "up"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        -7,
+        0,
+        7
+      ],
+      "first_start_beat": 33.0,
+      "span_beats": 0.99,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Lead 1 (square)-4",
+      "role": "lead_or_counter",
+      "count": 134,
+      "contour": [
+        "up",
+        "same",
+        "down"
+      ],
+      "ioi_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        7,
+        0,
+        -7
+      ],
+      "first_start_beat": 32.5,
+      "span_beats": 0.99,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Lead 2 (sawtooth)",
+      "role": "lead_or_counter",
+      "count": 392,
+      "contour": [
+        "same",
+        "same",
+        "same"
+      ],
+      "ioi_shape": [
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "eighth",
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        0,
+        0,
+        0
+      ],
+      "first_start_beat": 32.0,
+      "span_beats": 1.99,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Lead 2 (sawtooth)",
+      "role": "lead_or_counter",
+      "count": 23,
+      "contour": [
+        "same",
+        "step",
+        "same"
+      ],
+      "ioi_shape": [
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "duration_shape": [
+        "eighth",
+        "eighth",
+        "eighth",
+        "eighth"
+      ],
+      "intervals": [
+        0,
+        -2,
+        0
+      ],
+      "first_start_beat": 39.0,
+      "span_beats": 1.99,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Synth Drum",
+      "role": "drums",
+      "count": 8,
+      "contour": [
+        "down",
+        "same",
+        "same"
+      ],
+      "ioi_shape": [
+        "half",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        -3,
+        0,
+        0
+      ],
+      "first_start_beat": 133.0,
+      "span_beats": 2.24,
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Synth Drum",
+      "role": "drums",
+      "count": 6,
+      "contour": [
+        "same",
+        "down",
+        "same"
+      ],
+      "ioi_shape": [
+        "half",
+        "half",
+        "sixteenth"
+      ],
+      "duration_shape": [
+        "sixteenth",
+        "sixteenth",
+        "sixteenth",
+        "sixteenth"
+      ],
+      "intervals": [
+        0,
+        -3,
+        0
+      ],
+      "first_start_beat": 131.5,
+      "span_beats": 3.49,
+      "median_velocity": 110.0
+    }
+  ],
+  "fast_4note_burst_count_total": 576,
+  "fast_4note_bursts": [
+    {
+      "track": "Lead 1 (square)-4",
+      "role": "lead_or_counter",
+      "start_beat": 32.5,
+      "span_beats": 0.99,
+      "contour": [
+        "up",
+        "same",
+        "down"
+      ],
+      "intervals": [
+        7,
+        0,
+        -7
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Lead 1 (square)-4",
+      "role": "lead_or_counter",
+      "start_beat": 32.75,
+      "span_beats": 0.99,
+      "contour": [
+        "same",
+        "down",
+        "same"
+      ],
+      "intervals": [
+        0,
+        -7,
+        0
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Lead 1 (square)-4",
+      "role": "lead_or_counter",
+      "start_beat": 33.0,
+      "span_beats": 0.99,
+      "contour": [
+        "down",
+        "same",
+        "up"
+      ],
+      "intervals": [
+        -7,
+        0,
+        7
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Lead 1 (square)-4",
+      "role": "lead_or_counter",
+      "start_beat": 33.25,
+      "span_beats": 0.99,
+      "contour": [
+        "same",
+        "up",
+        "same"
+      ],
+      "intervals": [
+        0,
+        7,
+        0
+      ],
+      "median_velocity": 110.0
+    },
+    {
+      "track": "Lead 1 (square)-4",
+      "role": "lead_or_counter",
+      "start_beat": 33.5,
+      "span_beats": 0.99,
+      "contour": [
+        "up",
+        "same",
+        "down"
+      ],
+      "intervals": [
+        7,
+        0,
+        -7
+      ],
+      "median_velocity": 110.0
+    }
+  ],
+  "drums": {
+    "note_count": 1201,
+    "counts": {
+      "kick": 432,
+      "snare_clap": 162,
+      "closed_hat": 443,
+      "open_hat": 164,
+      "cymbal": 0
+    },
+    "common_bar_positions": {
+      "kick": [
+        [
+          0.0,
+          72
+        ],
+        [
+          0.5,
+          72
+        ],
+        [
+          1.5,
+          72
+        ],
+        [
+          2.5,
+          72
+        ],
+        [
+          3.0,
+          72
+        ],
+        [
+          3.5,
+          72
+        ]
+      ],
+      "snare_clap": [
+        [
+          3.0,
+          72
+        ],
+        [
+          1.0,
+          64
+        ],
+        [
+          1.5,
+          18
+        ],
+        [
+          2.5,
+          6
+        ],
+        [
+          3.5,
+          2
+        ]
+      ],
+      "closed_hat": [
+        [
+          0.5,
+          72
+        ],
+        [
+          1.5,
+          72
+        ],
+        [
+          2.5,
+          72
+        ],
+        [
+          0.0,
+          40
+        ],
+        [
+          1.0,
+          40
+        ],
+        [
+          2.0,
+          40
+        ]
+      ],
+      "open_hat": [
+        [
+          3.5,
+          36
+        ],
+        [
+          0.0,
+          32
+        ],
+        [
+          1.0,
+          32
+        ],
+        [
+          2.0,
+          32
+        ],
+        [
+          3.0,
+          32
+        ]
+      ],
+      "cymbal": []
+    }
+  },
+  "section_density_4bar_blocks": [
+    {
+      "block": 1,
+      "beats": [
+        0.0,
+        16.0
+      ],
+      "notes": 89,
+      "tonal_notes": 28,
+      "drum_notes": 61,
+      "active_tracks": 7,
+      "median_tonal_pitch": 63.0
+    },
+    {
+      "block": 2,
+      "beats": [
+        16.0,
+        32.0
+      ],
+      "notes": 101,
+      "tonal_notes": 41,
+      "drum_notes": 60,
+      "active_tracks": 9,
+      "median_tonal_pitch": 65.0
+    },
+    {
+      "block": 3,
+      "beats": [
+        32.0,
+        48.0
+      ],
+      "notes": 212,
+      "tonal_notes": 145,
+      "drum_notes": 67,
+      "active_tracks": 11,
+      "median_tonal_pitch": 63.0
+    },
+    {
+      "block": 4,
+      "beats": [
+        48.0,
+        64.0
+      ],
+      "notes": 213,
+      "tonal_notes": 148,
+      "drum_notes": 65,
+      "active_tracks": 11,
+      "median_tonal_pitch": 67.5
+    },
+    {
+      "block": 5,
+      "beats": [
+        64.0,
+        80.0
+      ],
+      "notes": 211,
+      "tonal_notes": 144,
+      "drum_notes": 67,
+      "active_tracks": 10,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 6,
+      "beats": [
+        80.0,
+        96.0
+      ],
+      "notes": 211,
+      "tonal_notes": 146,
+      "drum_notes": 65,
+      "active_tracks": 11,
+      "median_tonal_pitch": 69.0
+    },
+    {
+      "block": 7,
+      "beats": [
+        96.0,
+        112.0
+      ],
+      "notes": 219,
+      "tonal_notes": 150,
+      "drum_notes": 69,
+      "active_tracks": 11,
+      "median_tonal_pitch": 66.5
+    },
+    {
+      "block": 8,
+      "beats": [
+        112.0,
+        128.0
+      ],
+      "notes": 224,
+      "tonal_notes": 155,
+      "drum_notes": 69,
+      "active_tracks": 11,
+      "median_tonal_pitch": 67.0
+    },
+    {
+      "block": 9,
+      "beats": [
+        128.0,
+        144.0
+      ],
+      "notes": 203,
+      "tonal_notes": 134,
+      "drum_notes": 69,
+      "active_tracks": 11,
+      "median_tonal_pitch": 62.0
+    },
+    {
+      "block": 10,
+      "beats": [
+        144.0,
+        160.0
+      ],
+      "notes": 204,
+      "tonal_notes": 135,
+      "drum_notes": 69,
+      "active_tracks": 11,
+      "median_tonal_pitch": 62.0
+    },
+    {
+      "block": 11,
+      "beats": [
+        160.0,
+        176.0
+      ],
+      "notes": 212,
+      "tonal_notes": 145,
+      "drum_notes": 67,
+      "active_tracks": 11,
+      "median_tonal_pitch": 63.0
+    },
+    {
+      "block": 12,
+      "beats": [
+        176.0,
+        192.0
+      ],
+      "notes": 213,
+      "tonal_notes": 148,
+      "drum_notes": 65,
+      "active_tracks": 11,
+      "median_tonal_pitch": 67.5
+    },
+    {
+      "block": 13,
+      "beats": [
+        192.0,
+        208.0
+      ],
+      "notes": 211,
+      "tonal_notes": 144,
+      "drum_notes": 67,
+      "active_tracks": 10,
+      "median_tonal_pitch": 64.0
+    },
+    {
+      "block": 14,
+      "beats": [
+        208.0,
+        224.0
+      ],
+      "notes": 211,
+      "tonal_notes": 146,
+      "drum_notes": 65,
+      "active_tracks": 11,
+      "median_tonal_pitch": 69.0
+    },
+    {
+      "block": 15,
+      "beats": [
+        224.0,
+        240.0
+      ],
+      "notes": 219,
+      "tonal_notes": 150,
+      "drum_notes": 69,
+      "active_tracks": 11,
+      "median_tonal_pitch": 66.5
+    },
+    {
+      "block": 16,
+      "beats": [
+        240.0,
+        256.0
+      ],
+      "notes": 224,
+      "tonal_notes": 155,
+      "drum_notes": 69,
+      "active_tracks": 11,
+      "median_tonal_pitch": 67.0
+    },
+    {
+      "block": 17,
+      "beats": [
+        256.0,
+        272.0
+      ],
+      "notes": 203,
+      "tonal_notes": 134,
+      "drum_notes": 69,
+      "active_tracks": 11,
+      "median_tonal_pitch": 62.0
+    },
+    {
+      "block": 18,
+      "beats": [
+        272.0,
+        288.0
+      ],
+      "notes": 204,
+      "tonal_notes": 135,
+      "drum_notes": 69,
+      "active_tracks": 11,
+      "median_tonal_pitch": 62.0
+    }
+  ]
+}
