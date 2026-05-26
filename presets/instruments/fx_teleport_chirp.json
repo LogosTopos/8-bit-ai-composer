@@ -1,0 +1,13 @@
+{
+  "type": "instrument",
+  "id": "fx_teleport_chirp",
+  "instrument": "pulse_12",
+  "role": "fx",
+  "description": "Short rising chirp for teleport, lock-on, or transition cues.",
+  "pan": 0.26,
+  "volume": 0.42,
+  "midi_program": 97,
+  "default_fx": {
+    "retrigger": 3
+  }
+}

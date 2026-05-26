@@ -1,0 +1,9 @@
+{
+  "type": "macro",
+  "id": "snare_roll_8",
+  "description": "Eight-segment retrigger with mild tremolo for pressure fills.",
+  "fx": {
+    "retrigger": 8,
+    "tremolo": [11.0, 0.16]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "instrument",
+  "id": "bass_triangle_drive",
+  "instrument": "triangle",
+  "role": "bass",
+  "description": "Main 8-bit bass drive. Use for rhythmic low-register motion.",
+  "pan": 0.0,
+  "volume": 1.12,
+  "midi_program": 38
+}

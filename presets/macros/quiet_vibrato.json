@@ -1,0 +1,8 @@
+{
+  "type": "macro",
+  "id": "quiet_vibrato",
+  "description": "Small pitch movement for sustained chip notes without making them lead-like.",
+  "fx": {
+    "vib": [4.8, 3.0]
+  }
+}

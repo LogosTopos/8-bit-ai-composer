@@ -1,0 +1,8 @@
+{
+  "type": "macro",
+  "id": "bass_drop_slide",
+  "description": "Slide a bass fill down to the supplied target note.",
+  "fx": {
+    "slide_to": "C#1"
+  }
+}

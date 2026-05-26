@@ -1,0 +1,13 @@
+{
+  "type": "instrument",
+  "id": "arp_cue_quiet",
+  "instrument": "pulse_12",
+  "role": "cue_arp",
+  "description": "Quiet prompt-like arp/counter layer. This should sit behind the arrangement.",
+  "pan": -0.2,
+  "volume": 0.22,
+  "midi_program": 80,
+  "default_fx": {
+    "vib": [5.0, 2.0]
+  }
+}

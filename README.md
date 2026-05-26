@@ -1,6 +1,6 @@
-# epsilon-bit-ai-composer
+# ε-bit-ai-composer
 
-A compact 8-bit / chip-style game music workbench. This repository is a cleaned-up, public-ready evolution of the original 8-bit AI composer idea: AI can help design and implement arrangements, but the useful artifact is deterministic Python composition code that renders locally to audio, MIDI, stems, and validation files.
+A compact 8-bit / chip-style game music workbench. This repository is a cleaned-up, public-ready evolution of the original 8-bit AI composer idea: AI can help design and implement arrangements, but the useful artifact is deterministic Python composition code and preset cards that render locally to audio, MIDI, stems, and validation files.
 
 The current best direction is not "ask an AI for a melody." In the Thermocline battle-BGM experiment, lead-melody attempts were weak. The strongest music came from bass, drums, harmony, arps, counters, and FX acting as the foreground engine.
 
@@ -49,10 +49,31 @@ For the current musical direction, start with:
 
 ```text
 src/ebit/       Small reusable rendering core
+presets/        Creator-facing instrument and macro cards
 scripts/        Reproducible composition scripts
 examples/       Four curated example/reference folders
 docs/           Project status, architecture, case study, release notes
 output/         Generated local output; ignored by Git
+```
+
+## Creator Presets
+
+The `presets/` layer restores a lightweight version of the old instrument-card and macro workflow without bringing back the old asset tree.
+
+- `presets/instruments/*.json` describe reusable renderer-facing roles, such as bass drive, quiet cue arp, snare noise, and teleport chirp.
+- `presets/macros/*.json` describe reusable note decorations, such as vibrato, retrigger rolls, slides, and alarm arps.
+- `src/ebit/presets.py` loads, validates, and applies those cards to the same note/track dictionaries used by the composition scripts.
+
+Try it:
+
+```bash
+python scripts/render_preset_demo.py
+```
+
+This writes a short proof render to:
+
+```text
+output/preset_demo/
 ```
 
 ## Core Scripts
@@ -68,6 +89,10 @@ output/         Generated local output; ignored by Git
 - `scripts/generate_thermocline_no_lead_expanded.py`
   - Current recommended direction.
   - Removes the foreground lead role and expands bass, drums, harmony, arps, counters, and FX.
+
+- `scripts/render_preset_demo.py`
+  - Minimal card-based demo.
+  - Useful as the starting point for creating new instrument and macro cards.
 
 ## Main Findings
 
@@ -86,11 +111,13 @@ Good next edits for collaborators:
 - Keep secondary arp/cue sounds quiet; they should not feel like loud UI prompts.
 - Add manual loop-point checking for game integration.
 - Tune bass/drum balance on real speakers and headphones.
+- Promote repeated hard-coded roles from scripts into `presets/` cards when they become reusable.
 
 See:
 
 - [Project Status](docs/PROJECT_STATUS.md)
 - [Architecture](docs/ARCHITECTURE.md)
+- [Creator Workflow](docs/CREATOR_WORKFLOW.md)
 - [Thermocline Case Study](docs/THERMOCLINE_CASE_STUDY.md)
 - [Data And License Notes](docs/DATA_AND_LICENSE_NOTES.md)
 - [GitHub Release Checklist](docs/GITHUB_RELEASE_CHECKLIST.md)

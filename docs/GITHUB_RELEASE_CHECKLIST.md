@@ -7,7 +7,7 @@ Run:
 ```bash
 git status --short
 du -sh .
-python -m py_compile src/ebit/renderer.py scripts/generate_thermocline_v1.py scripts/generate_thermocline_chatb_direct.py scripts/generate_thermocline_no_lead_expanded.py
+python -m py_compile src/ebit/renderer.py src/ebit/presets.py scripts/generate_thermocline_v1.py scripts/generate_thermocline_chatb_direct.py scripts/generate_thermocline_no_lead_expanded.py scripts/render_preset_demo.py
 ```
 
 Confirm:
@@ -17,11 +17,13 @@ Confirm:
 - no `output/`,
 - no generated WAV files,
 - only curated MP3/MIDI examples under `examples/`.
+- preset cards load with `scripts/render_preset_demo.py`.
 
 ## Smoke Test
 
 ```bash
 python scripts/generate_thermocline_no_lead_expanded.py
+python scripts/render_preset_demo.py
 ```
 
 Expected marker:
@@ -34,6 +36,7 @@ Expected output:
 
 ```text
 output/analysis/温跃层战斗BGM_v1_no_lead_expanded/01_温跃层_no_lead_expanded_master.mp3
+output/preset_demo/preset_demo.mp3
 ```
 
 ## GitHub Authentication

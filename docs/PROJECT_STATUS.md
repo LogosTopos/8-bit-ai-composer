@@ -35,8 +35,16 @@ They are kept because they explain the successful direction and the failure boun
 - `src/ebit/audio/envelope.py`
   - Tick-based volume envelope helper.
 
+- `src/ebit/presets.py`
+  - Loads and validates small JSON instrument/macro cards.
+  - Expands cards into the renderer's existing track/note dictionaries.
+
+- `presets/`
+  - Lightweight creator workflow for reusable instruments and note macros.
+  - Current cards are intentionally few; they are seeds for future composition work.
+
 - `scripts/`
-  - Three reproducible Thermocline composition scripts.
+  - Three reproducible Thermocline composition scripts plus a preset-card demo.
 
 ## Main Findings
 
@@ -51,6 +59,7 @@ They are kept because they explain the successful direction and the failure boun
 - The renderer is useful but not a full DAW or tracker.
 - No formal test suite exists yet.
 - The current best no-lead output is generated, not checked in as a full output folder.
+- Most Thermocline roles are still hard-coded inside scripts; only the first reusable card layer has been extracted.
 - Some kept reference MIDI files may have third-party licensing constraints; see `DATA_AND_LICENSE_NOTES.md`.
 - Human listening is still the real quality gate.
 
@@ -58,5 +67,6 @@ They are kept because they explain the successful direction and the failure boun
 
 1. Add a small pytest suite for renderer duration, non-NaN audio, and script validation.
 2. Turn the no-lead script into a parameterized generator for intensity variants.
-3. Add release assets for the current no-lead MP3s.
-4. Clean up example licensing before broad public promotion.
+3. Gradually migrate repeated instrument roles and macro idioms from scripts into `presets/`.
+4. Add release assets for the current no-lead MP3s.
+5. Clean up example licensing before broad public promotion.

@@ -1,0 +1,9 @@
+{
+  "type": "macro",
+  "id": "teleport_up",
+  "description": "Rising slide used for teleport or lock-on chirps.",
+  "fx": {
+    "slide_to": "C#7",
+    "retrigger": 3
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "instrument",
+  "id": "drum_snare_noise",
+  "instrument": "noise_short",
+  "role": "drum",
+  "description": "Short noise snare or tactical clap layer.",
+  "pan": 0.02,
+  "volume": 0.9,
+  "midi_channel": 9
+}

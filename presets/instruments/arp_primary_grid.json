@@ -1,0 +1,10 @@
+{
+  "type": "instrument",
+  "id": "arp_primary_grid",
+  "instrument": "pulse_12",
+  "role": "arp",
+  "description": "Foreground high-motion grid. Keep rhythmic and bright, but avoid masking drums.",
+  "pan": 0.18,
+  "volume": 0.78,
+  "midi_program": 81
+}

@@ -4,6 +4,7 @@ The repository now has four layers:
 
 ```text
 composition script
+  -> optional preset cards
   -> explicit note timelines
   -> src/ebit/renderer.py
   -> stereo numpy buffers
@@ -54,12 +55,67 @@ Supported local instrument names:
 
 These are not General MIDI instruments. MIDI export is for inspection and DAW handoff; external MIDI playback will not match the MP3 rendered by this project.
 
+## Preset Layer
+
+The creator-facing preset layer lives in:
+
+```text
+presets/instruments/
+presets/macros/
+src/ebit/presets.py
+```
+
+It does not replace the renderer. It expands cards into normal renderer dictionaries.
+
+Instrument cards define reusable track defaults:
+
+```json
+{
+  "type": "instrument",
+  "id": "arp_cue_quiet",
+  "instrument": "pulse_12",
+  "role": "cue_arp",
+  "pan": -0.2,
+  "volume": 0.22,
+  "default_fx": {
+    "vib": [5.0, 2.0]
+  }
+}
+```
+
+Macro cards define reusable note decorations:
+
+```json
+{
+  "type": "macro",
+  "id": "teleport_up",
+  "fx": {
+    "slide_to": "C#7",
+    "retrigger": 3
+  }
+}
+```
+
+Python usage:
+
+```python
+from ebit import PresetLibrary
+
+library = PresetLibrary.load("presets")
+note = library.apply_macro("teleport_up", {"n": "G#6", "b": 7.5, "d": 0.18, "v": 0.2})
+track = library.make_track("fx_teleport_chirp", [note])
+```
+
+This keeps the old idea of instrument cards and macros, but with a small schema that is compatible with the current scripts.
+
+See [Creator Workflow](CREATOR_WORKFLOW.md) for the card schema and extension rules.
+
 ## Composition Script Pattern
 
 The useful scripts follow this pattern:
 
 1. Define sections, tempo, progression, and role constraints.
-2. Build role-specific tracks: bass, drum core, drum detail, harmony, arps, FX.
+2. Build role-specific tracks directly in Python or through `presets/` cards.
 3. Render each role group as a stem bus.
 4. Apply simple filtering, delay, and sidechain-like ducking.
 5. Mix and limit.

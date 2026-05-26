@@ -95,6 +95,8 @@ This script removes the foreground lead role and expands:
 
 The secondary arp/counter layer should stay quiet. It is a cue/prompt layer, not a foreground hook.
 
+The new `presets/` layer contains first-class cards for this lesson, including `arp_primary_grid` and `arp_cue_quiet`. New work should prefer the quiet cue card for prompt-like arps instead of copying loud arp settings.
+
 ## Reproduce
 
 ```bash

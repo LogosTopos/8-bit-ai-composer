@@ -2,6 +2,8 @@
 
 The source code is MIT-licensed. See `LICENSE`.
 
+The project display name is `ε-bit-ai-composer`. The Python package name remains ASCII-compatible as `ebit`, and the package metadata uses `epsilon-bit-ai-composer`.
+
 ## Generated Audio
 
 Generated output is ignored:

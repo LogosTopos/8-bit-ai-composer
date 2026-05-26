@@ -1,0 +1,8 @@
+{
+  "type": "macro",
+  "id": "alarm_minor_7",
+  "description": "Minor seventh alarm arpeggio color for held threat notes.",
+  "fx": {
+    "arp": [0, 3, 6, 10]
+  }
+}

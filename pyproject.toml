@@ -1,7 +1,7 @@
 [project]
 name = "epsilon-bit-ai-composer"
 version = "0.1.0"
-description = "A local 8-bit/chip-style music composition lab with deterministic rendering, MIDI export, and AI-assisted experiment scripts."
+description = "ε-bit-ai-composer: a local 8-bit/chip-style music composition lab with deterministic rendering, preset cards, MIDI export, and AI-assisted experiment scripts."
 readme = "README.md"
 requires-python = ">=3.11"
 license = { file = "LICENSE" }

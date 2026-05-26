@@ -1,0 +1,10 @@
+{
+  "type": "instrument",
+  "id": "bass_fm_edge",
+  "instrument": "fm_bass",
+  "role": "bass_detail",
+  "description": "Short upper-bass bite for fills, attacks, and danger accents.",
+  "pan": 0.05,
+  "volume": 0.86,
+  "midi_program": 39
+}
